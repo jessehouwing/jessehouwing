@@ -1,18 +1,6 @@
-👨‍💻 Upcoming classes
-- [Professional Scrum Master - Jan 20+21 2022](https://www.scrum.org/courses/professional-scrum-master-2022-01-20-51777)
-- [Professional Scrum with Kanban - Feb 14+15 2022](https://www.scrum.org/courses/professional-scrum-kanban-hilversum-2022-02-14-51822)
-- [Professional Scrum Master II - Mar 7+8 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-03-07-51785)
-- [Professional Scrum Product Owner - Mar 17+18 2022](https://www.scrum.org/courses/professional-scrum-product-owner-amsterdam-2022-03-17-51806)
-- [Scaled Professional Scrum - Mar 28+29](https://www.scrum.org/courses/scaled-professional-scrum-amsterdam-2022-03-28-51825)
-- [Professional Scrum with Kanban - Apr 13+14 2022](https://www.scrum.org/courses/professional-scrum-kanban-2022-04-13-55059)
-- [Professional Scrum Product Owner - May 16+17 2022](https://www.scrum.org/courses/professional-scrum-product-owner-2022-05-16-51808)
-- [Professional Scrum with Kanban - Jun 7+8 2022](https://www.scrum.org/courses/professional-scrum-kanban-hilversum-2022-06-07-51823)
-- [Professional Scrum Master II - Jun 13+14 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-06-13-51786)
-- [Scaled Professional Scrum - Jun 23+24](https://www.scrum.org/courses/scaled-professional-scrum-2022-06-23-51824)
-
 👨‍💻 On Demand classes
 
-If none of the dates above work for you or you're interested in a class that isn't currenly scheduled for public delivery, do leave me a note to schedule a class on-demand for you and your team.
+If you're interested in a class that isn't currenly scheduled for public delivery or the dates don't suit you, do leave me a note to schedule a class on-demand for you and your team.
 
 <img height="60" width="60" src="https://images.credly.com/size/680x680/images/9300cd60-8a1c-4585-a4b0-1f3663c4d2f1/BADGES_FINAL_PST_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/01e79f67-e63a-469d-bf6b-6f80d38604dc/BADGES_FINA_PSD-I_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/12bddaac-9b71-43fd-a81e-71ebd144ee52/BADGES_FINAL_PSM-I_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/21d4f3ab-bf8a-4fc7-9bf5-432729fa558d/BADGES_FINAL_PSM-II_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/efb3e57a-bdb2-4775-a6bc-2852612bd687/BADGES_FINAL_PSPO-I_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/abe50c7f-3e84-477d-b4f5-0a8ce2e8f1a4/BADGES_FINAL_PSPO-II_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/3607a4bd-6149-4f6b-81f5-71abaf6a7b7a/BADGES_FINAL_PSK-I_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/734c6e3b-7aff-471d-981a-9d578442c242/BADGES_FINAL_PSU-I_600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/1abbf8b9-a672-4af2-856f-a0c505f1f4d5/BADGES_FINAL_SPS_600.png">
 
@@ -25,6 +13,17 @@ If none of the dates above work for you or you're interested in a class that isn
 - Professional Scrum with Kanban
 - Professional Scrum with User Experience
 - Scaled Profesisonal Scrum
+
+- 🗓️ [Professional Scrum Master - Jan 20+21 2022](https://www.scrum.org/courses/professional-scrum-master-2022-01-20-51777)
+- 🗓️ [Professional Scrum with Kanban - Feb 14+15 2022](https://www.scrum.org/courses/professional-scrum-kanban-hilversum-2022-02-14-51822)
+- 🗓️ [Professional Scrum Master II - Mar 7+8 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-03-07-51785)
+- 🗓️ [Professional Scrum Product Owner - Mar 17+18 2022](https://www.scrum.org/courses/professional-scrum-product-owner-amsterdam-2022-03-17-51806)
+- 🗓️ [Scaled Professional Scrum - Mar 28+29](https://www.scrum.org/courses/scaled-professional-scrum-amsterdam-2022-03-28-51825)
+- 🗓️ [Professional Scrum with Kanban - Apr 13+14 2022](https://www.scrum.org/courses/professional-scrum-kanban-2022-04-13-55059)
+- 🗓️ [Professional Scrum Product Owner - May 16+17 2022](https://www.scrum.org/courses/professional-scrum-product-owner-2022-05-16-51808)
+- 🗓️ [Professional Scrum with Kanban - Jun 7+8 2022](https://www.scrum.org/courses/professional-scrum-kanban-hilversum-2022-06-07-51823)
+- 🗓️ [Professional Scrum Master II - Jun 13+14 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-06-13-51786)
+- 🗓️ [Scaled Professional Scrum - Jun 23+24](https://www.scrum.org/courses/scaled-professional-scrum-2022-06-23-51824)
 
 
 <img height="60" width="90" src="https://www.gamingworks.nl/wp-content/uploads/Logo_The-Phoenix-Project_HIGH-RES_RGB.png">
@@ -52,20 +51,20 @@ If none of the dates above work for you or you're interested in a class that isn
 
 🚀 Azure Pipelines Extensions
 
- * TFVC Tasks [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-tfvc-tasks) [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-tfvc-tasks)
- * Azure Pipelines Variable Tasks [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-variable-tasks) [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-variable-tasks)
- * MsBuild Helper Tasks [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task) [🛍️](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task)
- * Pre- and Post Script Tasks [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.pre-post-tasks)
- * Gate Condition Editor [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.gate-condition-editor)
- * Azure DevOps Extension Tasks [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/microsoft/azure-devops-extension-tasks) [🛍️](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-developer-tools-build-tasks)
- * Ensure Tests [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.vsts-ensure-tests-tasks)
- * Agent Screenshot [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-pipelines-agent-screenshot) [🛍️](https://github.com/jessehouwing/azure-pipelines-agent-screenshot)
+ * [Azure Pipelines TFVC Tasks](https://github.com/jessehouwing/azure-pipelines-tfvc-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-tfvc-tasks)
+ * [Azure Pipelines Variable Tasks](https://github.com/jessehouwing/azure-pipelines-variable-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-variable-tasks)
+ * [MsBuild Helper Tasks](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task) | [🛍️](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task)
+ * [Pre- and Post Script Tasks](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.pre-post-tasks)
+ * [Gate Condition Editor](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.gate-condition-editor)
+ * [Azure DevOps Extension Tasks](https://github.com/microsoft/azure-devops-extension-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-developer-tools-build-tasks)
+ * [Ensure Tests](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.vsts-ensure-tests-tasks)
+ * [Agent Screenshot](https://github.com/jessehouwing/azure-pipelines-agent-screenshot) | [🛍️](https://github.com/jessehouwing/azure-pipelines-agent-screenshot)
 
 <hr />
 
 📅 Azure Boards Extensions
 
- * Team Tool CLI [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/jessehouwing/azure-boards-team-tools) [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.azure-boards-teams-tool)
- * TFS Aggregator [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/tfsaggregator/tfsaggregator) [🛍️](https://marketplace.visualstudio.com/items?itemName=tfsaggregatorteam.tfs-aggregator-server-plugin) 
- * Aggregator CLI [<img height="32" width="32" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/tfsaggregator/aggregator-cli) [🛍️](https://marketplace.visualstudio.com/items?itemName=tfsaggregatorteam.aggregator-cli) 
- * WitMorph https://github.com/jessehouwing/WitMorph
+ * [Team Tool CLI](https://github.com/jessehouwing/azure-boards-team-tools) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.azure-boards-teams-tool)
+ * [TFS Aggregator](https://github.com/tfsaggregator/tfsaggregator) | [🛍️](https://marketplace.visualstudio.com/items?itemName=tfsaggregatorteam.tfs-aggregator-server-plugin) 
+ * [Aggregator CLI](https://github.com/tfsaggregator/aggregator-cli) | [🛍️](https://marketplace.visualstudio.com/items?itemName=tfsaggregatorteam.aggregator-cli) 
+ * [WitMorph](https://github.com/jessehouwing/WitMorph)
