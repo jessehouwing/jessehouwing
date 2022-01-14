@@ -1,12 +1,12 @@
 🔗 Connect with me
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />](https://twitter.com/jessehouwing)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />](https://www.facebook.com/jessehouwing)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/jessehouwing)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />](https://stackoverflow.com/users/736079/jessehouwing)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />](https://www.instagram.com/jesse.houwing/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />](https://www.youtube.com/c/JesseHouwing/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rss.svg" />](https://jessehouwing.net/)
+[<img height="32" width="32" src="./img/twitter.svg" />](https://twitter.com/jessehouwing) 
+[<img height="32" width="32" src="./img/facebook.svg" />](https://www.facebook.com/jessehouwing) 
+[<img height="32" width="32" src="./img/linkedin.svg" />](https://www.linkedin.com/in/jessehouwing) 
+[<img height="32" width="32" src="./img/stackoverflow.svg" />](https://stackoverflow.com/users/736079/jessehouwing) 
+[<img height="32" width="32" src="./img/instagram.svg" />](https://www.instagram.com/jesse.houwing/) 
+[<img height="32" width="32" src="./img/youtube.svg" />](https://www.youtube.com/c/JesseHouwing/) 
+[<img height="32" width="32" src="./img/rss.svg" />](https://jessehouwing.net/)
 
 <hr />
 
