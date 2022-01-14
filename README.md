@@ -12,7 +12,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 - Professional Scrum Product Owner - Advanced
 - Professional Scrum with Kanban
 - Professional Scrum with User Experience
-- Scaled Profesisonal Scrum
+- Scaled Professional Scrum
 
 - 🗓️ [Professional Scrum Master - Jan 20+21 2022](https://www.scrum.org/courses/professional-scrum-master-2022-01-20-51777)
 - 🗓️ [Professional Scrum with Kanban - Feb 14+15 2022](https://www.scrum.org/courses/professional-scrum-kanban-hilversum-2022-02-14-51822)
