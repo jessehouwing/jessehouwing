@@ -1,4 +1,27 @@
-👨‍💻 On Demand classes
+🔗 Connect with me
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />](https://twitter.com/jessehouwing)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />](https://www.facebook.com/jessehouwing)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/jessehouwing)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />](https://stackoverflow.com/users/736079/jessehouwing)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />](https://www.instagram.com/jesse.houwing/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />](https://www.youtube.com/c/JesseHouwing/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rss.svg" />](https://jessehouwing.net/)
+
+<hr />
+
+📒 Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Log4J – A 10 step mitigation plan](https://jessehouwing.net/log4j-a-10-step-mitigation-plan/)
+- [Azure DevOps 2020 and 2019 &lpar;and 2018&rpar; patch for log4j vulnerability](https://jessehouwing.net/azure-devops-patch-for-log4j-vulnerability/)
+- [Adding Visual Studio 2022 to Azure DevOps Server 2020](https://jessehouwing.net/adding-visual-studio-2022-to-azure-devops-server-2020/)
+- [Use Visual Studio 2022 as merge tool in Tower](https://jessehouwing.net/use-visual-studio-2022-as-merge-tool-in-tower/)
+- [&quot;Fixing&quot; massive parallel builds on Azure Pipelines with TFVC](https://jessehouwing.net/azure-pipelines-fixing-massive-parallel-builds-with-tfvc/)
+<!-- BLOG-POST-LIST:END -->
+
+<hr/>
+
+👨‍💻 Get trained in things Scrum and DevOps
 
 If you're interested in a class that isn't currenly scheduled for public delivery or the dates don't suit you, do leave me a note to schedule a class on-demand for you and your team.
 
@@ -27,15 +50,6 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 - AZ-900T00-A: Microsoft Azure Fundamentals
 - AZ-204T00: Developing Solutions for Microsoft Azure
 - AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions
-
-📒 Recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Log4J – A 10 step mitigation plan](https://jessehouwing.net/log4j-a-10-step-mitigation-plan/)
-- [Azure DevOps 2020 and 2019 &lpar;and 2018&rpar; patch for log4j vulnerability](https://jessehouwing.net/azure-devops-patch-for-log4j-vulnerability/)
-- [Adding Visual Studio 2022 to Azure DevOps Server 2020](https://jessehouwing.net/adding-visual-studio-2022-to-azure-devops-server-2020/)
-- [Use Visual Studio 2022 as merge tool in Tower](https://jessehouwing.net/use-visual-studio-2022-as-merge-tool-in-tower/)
-- [&quot;Fixing&quot; massive parallel builds on Azure Pipelines with TFVC](https://jessehouwing.net/azure-pipelines-fixing-massive-parallel-builds-with-tfvc/)
-<!-- BLOG-POST-LIST:END -->
 
 <hr />
 
