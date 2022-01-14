@@ -2,6 +2,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Log4J – A 10 step mitigation plan](https://jessehouwing.net/log4j-a-10-step-mitigation-plan/)
+- [Azure DevOps 2020 and 2019 &lpar;and 2018&rpar; patch for log4j vulnerability](https://jessehouwing.net/azure-devops-patch-for-log4j-vulnerability/)
+- [Adding Visual Studio 2022 to Azure DevOps Server 2020](https://jessehouwing.net/adding-visual-studio-2022-to-azure-devops-server-2020/)
+- [Use Visual Studio 2022 as merge tool in Tower](https://jessehouwing.net/use-visual-studio-2022-as-merge-tool-in-tower/)
+- [&quot;Fixing&quot; massive parallel builds on Azure Pipelines with TFVC](https://jessehouwing.net/azure-pipelines-fixing-massive-parallel-builds-with-tfvc/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr />
