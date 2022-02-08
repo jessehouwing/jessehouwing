@@ -61,7 +61,8 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  * [Azure DevOps Extension Tasks](https://github.com/microsoft/azure-devops-extension-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-developer-tools-build-tasks)
  * [Ensure Tests](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.vsts-ensure-tests-tasks)
  * [Agent Screenshot](https://github.com/jessehouwing/azure-pipelines-agent-screenshot) | [🛍️](https://github.com/jessehouwing/azure-pipelines-agent-screenshot)
-
+ * [Azure Pipelines Task Zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips)
+ 
 <hr />
 
 📅 Azure Boards Extensions
