@@ -51,7 +51,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <hr />
 
-🚀 Tools
+🤖 Tools
 
  * [PowerPoint Diff/Merge](https://github.com/jessehouwing/ppt-diffmerge) 
 
