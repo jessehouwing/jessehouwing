@@ -51,6 +51,12 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <hr />
 
+🚀 Tools
+
+ * [PowerPoint Diff/Merge](https://github.com/jessehouwing/ppt-diffmerge) 
+
+<hr />
+
 🚀 Azure Pipelines Extensions
 
  * [Azure Pipelines TFVC Tasks](https://github.com/jessehouwing/azure-pipelines-tfvc-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-tfvc-tasks)
