@@ -39,15 +39,15 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <img height="60" width="90" src="https://www.gamingworks.nl/wp-content/uploads/Logo_The-Phoenix-Project_HIGH-RES_RGB.png">
 
-- Phoenix Project Game
-- Phoenix Project Game Business Edition
+- [Phoenix Project Game](https://xebia.com/academy/en/training/phoenix-project-game)
+- [Phoenix Project Game Business Edition](https://xebia.com/academy/en/training/the-phoenix-project)
 
 
 <img height="60" width="60" src="https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
 
-- AZ-900T00-A: Microsoft Azure Fundamentals
-- AZ-204T00: Developing Solutions for Microsoft Azure
-- AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions
+- ⛅ [AZ-900T00-A: Microsoft Azure Fundamentals](https://xebia.com/academy/en/training/certified-azure-foundation)
+- ⛅ [AZ-204T00: Developing Solutions for Microsoft Azure](https://xebia.com/academy/en/training/certified-azure-developer)
+- ⛅ [AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions](https://xebia.com/academy/en/training/microsoft-azure-devops-engineer)
 
 <hr />
 
