@@ -12,11 +12,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Customizing Codespaces](https://jessehouwing.net/customizing-github-codespaces/)
 - [Ask a Professional Scrum Trainer - Scaling Scrum with Nexus - Part 2](https://jessehouwing.net/ask-a-professional-scrum-trainer-scaling-scrum-with-nexus-part-2/)
 - [Log4J – A 10 step mitigation plan](https://jessehouwing.net/log4j-a-10-step-mitigation-plan/)
 - [Azure DevOps 2020 and 2019 &lpar;and 2018&rpar; patch for log4j vulnerability](https://jessehouwing.net/azure-devops-patch-for-log4j-vulnerability/)
 - [Adding Visual Studio 2022 to Azure DevOps Server 2020](https://jessehouwing.net/adding-visual-studio-2022-to-azure-devops-server-2020/)
-- [Use Visual Studio 2022 as merge tool in Tower](https://jessehouwing.net/use-visual-studio-2022-as-merge-tool-in-tower/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
