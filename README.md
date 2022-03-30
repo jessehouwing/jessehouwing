@@ -36,7 +36,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 - 🗓️ [Scaled Professional Scrum - Jun 23+24](https://www.scrum.org/courses/scaled-professional-scrum-2022-06-23-51824)
 
 
-<img height="60" width="90" src="https://www.gamingworks.nl/wp-content/uploads/Logo_The-Phoenix-Project_HIGH-RES_RGB.png">
+<img height="60" width="90" src="./img/Phoenix Project Game.png">
 
 - [Phoenix Project Game](https://xebia.com/academy/en/training/phoenix-project-game)
 - [Phoenix Project Game Business Edition](https://xebia.com/academy/en/training/the-phoenix-project)
