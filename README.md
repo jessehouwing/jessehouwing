@@ -1,5 +1,5 @@
 🔗 Connect with me
-<div class="gh-dark-mode-only">
+<div class="gh-light-mode-only">
 [![twitter](./img/dark/twitter.svg#gh-dark-mode-only|width=60px&height=60px)![twitter](./img/light/twitter.svg#gh-light-mode-only|width=60px&height=60px)](https://twitter.com/jessehouwing)
 </div>[![facebook](./img/dark/facebook.svg#gh-dark-mode-only|width=60px&height=60px)![facebook](./img/light/facebook.svg#gh-light-mode-only|width=60px&height=60px)](https://www.facebook.com/jessehouwing) 
 [![linkedin](./img/dark/linkedin.svg#gh-dark-mode-only|width=60px&height=60px)![linkedin](./img/light/linkedin.svg#gh-light-mode-only|width=60px&height=60px)](https://www.linkedin.com/in/jessehouwing) 
