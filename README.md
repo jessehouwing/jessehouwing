@@ -26,9 +26,12 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <img height="60" width="60" src="https://images.credly.com/size/340x340/images/41d567f7-f570-49aa-bb6d-8d8b328c2b61/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/d90cc9bc-3e9a-49b2-ac09-7930db400e32/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/591762c5-fae7-49c6-b326-e1756979928d/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/0a8590ce-08e2-493f-b45a-e2c9ee8c848c/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/78c2bf96-9468-40ac-aee7-3eac9d79a6d5/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/253d8e52-e0bb-4806-87f8-b46784afea51/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/ab5a94a3-3d62-4d02-a3c8-7a72524f4d12/image.png">
 
-- 🗓️ [Professional Scrum with Kanban - Jun 7+8 2022](https://www.scrum.org/courses/professional-scrum-kanban-hilversum-2022-06-07-51823)
-- 🗓️ [Professional Scrum Master II - Jun 13+14 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-06-13-51786)
-- 🗓️ [Scaled Professional Scrum - Jun 23+24](https://www.scrum.org/courses/scaled-professional-scrum-2022-06-23-51824)
+- 🗓️ [Professional Scrum Master - Aug 22+23 2022](https://www.scrum.org/courses/professional-scrum-master-2022-08-22-56254)
+- 🗓️ [Scaled Professional Scrum - Sep 26+27 2022](https://www.scrum.org/courses/scaled-professional-scrum-2022-09-26-61363)
+- 🗓️ [Professional Scrum with Kanban - Nov 3+4](https://www.scrum.org/courses/professional-scrum-kanban-2022-11-03-61434)
+- 🗓️ [Professional Scrum Master II - Nov 21+22 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-11-21-56413)
+- 🗓️ [Scaled Professional Scrum - Dec 1+2 2022](https://www.scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2022-12-01-61956)
+- 🗓️ [Professional Scrum Master - Dec 12+13 2022](https://www.scrum.org/courses/professional-scrum-master-2022-12-12-56285)
 
 
 <img height="60" width="90" src="./img/Phoenix Project Game.png">
