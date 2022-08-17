@@ -1,12 +1,12 @@
 🔗 Connect with me
 
-[<img height="32" width="32" src="./img/twitter.svg" />](https://twitter.com/jessehouwing) 
-[<img height="32" width="32" src="./img/facebook.svg" />](https://www.facebook.com/jessehouwing) 
-[<img height="32" width="32" src="./img/linkedin.svg" />](https://www.linkedin.com/in/jessehouwing) 
-[<img height="32" width="32" src="./img/stackoverflow.svg" />](https://stackoverflow.com/users/736079/jessehouwing) 
-[<img height="32" width="32" src="./img/instagram.svg" />](https://www.instagram.com/jesse.houwing/) 
-[<img height="32" width="32" src="./img/youtube.svg" />](https://www.youtube.com/c/JesseHouwing/) 
-[<img height="32" width="32" src="./img/rss.svg" />](https://jessehouwing.net/)
+[<img height="32" width="32" src="./img/dark/twitter.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/twitter.svg#gh-light-mode-only" />](https://twitter.com/jessehouwing) 
+[<img height="32" width="32" src="./img/dark/facebook.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/facebook.svg#gh-light-mode-only" />](https://www.facebook.com/jessehouwing) 
+[<img height="32" width="32" src="./img/dark/linkedin.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/linkedin.svg#gh-light-mode-only" />](https://www.linkedin.com/in/jessehouwing) 
+[<img height="32" width="32" src="./img/dark/stackoverflow.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/stackoverflow.svg#gh-light-mode-only" />](https://stackoverflow.com/users/736079/jessehouwing) 
+[<img height="32" width="32" src="./img/dark/instagram.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/instagram.svg#gh-light-mode-only" />](https://www.instagram.com/jesse.houwing/) 
+[<img height="32" width="32" src="./img/dark/youtube.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/youtube.svg#gh-light-mode-only" />](https://www.youtube.com/c/JesseHouwing/) 
+[<img height="32" width="32" src="./img/dark/rss.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/rss.svg#gh-light-mode-only" />](https://jessehouwing.net/)
 
 <hr />
 
