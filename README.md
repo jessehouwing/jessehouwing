@@ -1,6 +1,6 @@
 🔗 Connect with me
 
-[![twitter](./img/dark/twitter.svg#gh-dark-mode-only)![twitter](./img/light/twitter.svg#gh-light-mode-only")](https://twitter.com/jessehouwing) 
+[![twitter](./img/dark/twitter.svg#gh-dark-mode-only =60x60)![twitter](./img/light/twitter.svg#gh-light-mode-only =60x60)](https://twitter.com/jessehouwing) 
 [<img height="32" width="32" src="./img/dark/facebook.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/facebook.svg#gh-light-mode-only" />](https://www.facebook.com/jessehouwing) 
 [<img height="32" width="32" src="./img/dark/linkedin.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/linkedin.svg#gh-light-mode-only" />](https://www.linkedin.com/in/jessehouwing) 
 [<img height="32" width="32" src="./img/dark/stackoverflow.svg#gh-dark-mode-only" /><img height="32" width="32" src="./img/light/stackoverflow.svg#gh-light-mode-only" />](https://stackoverflow.com/users/736079/jessehouwing) 
