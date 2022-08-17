@@ -1,11 +1,11 @@
 🔗 Connect with me
 
-[](https://twitter.com/jessehouwing)[![facebook](./img/dark/facebook.svg#gh-dark-mode-only|width=60px&height=60px)![facebook](./img/light/facebook.svg#gh-light-mode-only|width=60px&height=60px)](https://www.facebook.com/jessehouwing) 
-[![linkedin](./img/dark/linkedin.svg#gh-dark-mode-only|width=60px&height=60px)![linkedin](./img/light/linkedin.svg#gh-light-mode-only|width=60px&height=60px)](https://www.linkedin.com/in/jessehouwing) 
-[![stackoverflow](./img/dark/stackoverflow.svg#gh-dark-mode-only|width=60px&height=60px)![stackoverflow](./img/light/stackoverflow.svg#gh-light-mode-only|width=60px&height=60px)](https://stackoverflow.com/users/736079/jessehouwing) 
-[![instagram](./img/dark/instagram.svg#gh-dark-mode-only|width=60px&height=60px)![instagram](./img/light/instagram.svg#gh-light-mode-only|width=60px&height=60px)](https://www.instagram.com/jesse.houwing/) 
-[![youtube](./img/dark/youtube.svg#gh-dark-mode-only|width=60px&height=60px)![youtube](./img/light/youtube.svg#gh-light-mode-only|width=60px&height=60px)](https://www.youtube.com/c/JesseHouwing/) 
-[![rss](./img/dark/rss.svg#gh-dark-mode-only|width=60px&height=60px)![rss](./img/light/rss.svg#gh-light-mode-only|width=60px&height=60px)](https://jessehouwing.net/)
+[![twitter](./img/light/twitter.svg|width=60px&height=60px)](https://twitter.com/jessehouwing)[![facebook](./img/light/facebook.svg|width=60px&height=60px)](https://www.facebook.com/jessehouwing) 
+[![linkedin](./img/light/linkedin.svg|width=60px&height=60px)](https://www.linkedin.com/in/jessehouwing) 
+[![stackoverflow](./img/light/stackoverflow.svg|width=60px&height=60px)](https://stackoverflow.com/users/736079/jessehouwing) 
+[![instagram](./img/light/instagram.svg|width=60px&height=60px)](https://www.instagram.com/jesse.houwing/) 
+[![youtube](./img/light/youtube.svg|width=60px&height=60px)](https://www.youtube.com/c/JesseHouwing/) 
+[![rss](./img/light/rss.svg|width=60px&height=60px)](https://jessehouwing.net/)
 
 <hr />
 
