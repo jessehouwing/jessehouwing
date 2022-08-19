@@ -11,11 +11,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade Hosted Agent / GitHub Runner PowerShell](https://jessehouwing.net/upgrade-hosted-agent-powershell/)
 - [Be Secure and Compliant with GitHub](https://jessehouwing.net/be-secure-and-compliant-with-github/)
 - [Installing git-filter-repo on windows](https://jessehouwing.net/installing-git-filter-repo-on-windows/)
 - [Customizing Codespaces](https://jessehouwing.net/customizing-github-codespaces/)
 - [Ask a Professional Scrum Trainer - Scaling Scrum with Nexus - Part 2](https://jessehouwing.net/ask-a-professional-scrum-trainer-scaling-scrum-with-nexus-part-2/)
-- [Log4J – A 10 step mitigation plan](https://jessehouwing.net/log4j-a-10-step-mitigation-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
