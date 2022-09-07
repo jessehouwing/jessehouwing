@@ -28,7 +28,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 - 🗓️ [Professional Scrum Master - Aug 22+23 2022](https://www.scrum.org/courses/professional-scrum-master-2022-08-22-56254)
 - 🗓️ [Scaled Professional Scrum - Sep 26+27 2022](https://www.scrum.org/courses/scaled-professional-scrum-2022-09-26-61363)
-- 🗓️ [Professional Scrum with Kanban - Nov 3+4](https://www.scrum.org/courses/professional-scrum-kanban-2022-11-03-61434)
+- 🗓️ [Professional Scrum with Kanban - Nov 3+4 2022](https://www.scrum.org/courses/professional-scrum-kanban-2022-11-03-61434)
 - 🗓️ [Professional Scrum Master II - Nov 21+22 2022](https://www.scrum.org/courses/professional-scrum-master-ii-hilversum-2022-11-21-56413)
 - 🗓️ [Scaled Professional Scrum - Dec 1+2 2022](https://www.scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2022-12-01-61956)
 - 🗓️ [Professional Scrum Master - Dec 12+13 2022](https://www.scrum.org/courses/professional-scrum-master-2022-12-12-56285)
