@@ -1,7 +1,7 @@
 name: 'Update scrum.org classes'
 description: 'Update scrum.org classes'
 inputs:
-  trainerId:  
+  trainer_id:  
     description: 'Id of the trainer'
     required: true
 
