@@ -8,6 +8,43 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - script: |
-        write-host running
+    - run: |
+        $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
+                trainerId = "76"
+                courseTypes = @(103, 104, 164, 105, 106, 130, 108, 133, 200, 210, 292 )
+            } | ConvertTo-Json)
+
+        $markdown = "`n"
+
+        foreach ($course in $classes.items) {
+            $startDate = get-date -date $course.StartDate
+            $endDate = get-date -date $course.EndDate
+            $dateString = ""
+
+            if ($startDate -eq $endDate)
+            {
+                $dateString = "$($startDate.Day) $($startDate.ToString("MMM yyyy"))"
+            }
+            elseif ($startDate.Month -eq $endDate.Month)
+            {
+                $dateString = "$($startDate.Day)-$($endDate.Day) $($startDate.ToString("MMM yyyy"))"
+            }
+            elseif ($startDate.Month -ne $endDate.Month)
+            {
+                $dateString = "$($startDate.Day) $($startDate.ToString("MMM"))-$($endDate.Day) $($endDate.ToString("MMM yyyy"))"
+            }
+
+            $markdown += " - 🗓️ [$($course.Title) - $dateString](https://scrum.org$($course.url))"
+            $markdown += "`n"
+        }
+
+        $markdown
+
+        $readme = Get-Content -raw 
+        $readme = $readme -replace "(?s)(?<=<!-- SCRUM-CLASS-LIST:START -->).*(?=<!-- SCRUM-CLASS-LIST:END -->)", $markdown
+        Set-Content -path "README.md" -Value $readme
+
+        & git add "README.md"
+        & git commit -m "Updating classes"
+        & git push
       shell: pwsh
