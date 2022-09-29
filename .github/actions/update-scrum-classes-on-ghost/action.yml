@@ -24,17 +24,17 @@ runs:
                 [string[]]$courses
             )
 
-            if ($courses.Length -gt 0)
+            if ($courses)
             {
-              $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
+              $body = @{ 
                     trainerId   = "$trainerId"
                     courseTypes = $courses
-                } | ConvertTo-Json)
+                }
             } else {
-              $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
-                    trainerId   = "$trainerId"
-                } | ConvertTo-Json)
+              $body = @{ trainerId   = "$trainerId" } 
             }
+            
+            $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body ($body | ConvertTo-Json)
 
             if ($classes.items.Length -gt 0) {
                 $markdown = "`n| Course | Dates | Language | Location |`n|--------|-------|----------|----------|`n"
@@ -124,7 +124,7 @@ runs:
                           $trainingMarkdown = get-markdown -trainerId $trainerId -courses @($course)
                       }
                       else {
-                          $trainingMarkdown = get-markdown -trainerId $trainerId -courses @()
+                          $trainingMarkdown = get-markdown -trainerId $trainerId
                       }
                     }
                     $card[1].markdown = $markdown -replace "(?s)(?<=<!--SCRUM TRAINING(:\d+)?-->).*(?=<!--/SCRUM TRAINING-->)", $trainingMarkdown
