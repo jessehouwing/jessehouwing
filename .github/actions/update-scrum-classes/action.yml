@@ -1,0 +1,12 @@
+name: 'Update scrum.org classes'
+description: 'Update scrum.org classes'
+inputs:
+  trainerId:  
+    description: 'Id of the trainer'
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - pwsh: |
+      write-host running
