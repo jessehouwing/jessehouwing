@@ -1,0 +1,131 @@
+name: 'Update scrum.org classes'
+description: 'Update scrum.org classes'
+inputs:
+  trainer_id:  
+    description: 'Id of the trainer'
+    required: true
+  ghost_token:
+    description: 'Ghost API token'
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - run: |
+        $trainerId = $env:trainerId
+        $token = $env:token
+        
+        function get-markdown {
+            param(
+                [string]$trainerId,
+                [string[]]$courses
+            )
+
+            $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
+                    trainerId   = "$trainerId"
+                    courseTypes = $courses
+                } | ConvertTo-Json)
+
+            if ($classes.items.Length -gt 0) {
+                $markdown = "`n | Course | Dates | Language | Location | `n | -------- | ------ - | ---------- | ---------- | `n"
+
+                foreach ($course in $classes.items) {
+                    $startDate = get-date -date $course.StartDate
+                    $endDate = get-date -date $course.EndDate
+                    $dateString = ""
+
+                    if ($startDate -eq $endDate) {
+                        $dateString = "$($startDate.Day) $($startDate.ToString("MMM yyyy"))"
+                    }
+                    elseif ($startDate.Month -eq $endDate.Month) {
+                        $dateString = "$($startDate.Day)-$($endDate.Day) $($startDate.ToString("MMM yyyy"))"
+                    }
+                    elseif ($startDate.Month -ne $endDate.Month) {
+                        $dateString = "$($startDate.Day) $($startDate.ToString("MMM"))-$($endDate.Day) $($endDate.ToString("MMM yyyy"))"
+                    }
+
+                    $markdown += "| [$($course.Title)](https://scrum.org$($course.url)) | $dateString | $($course.languages[0]) | $($course.location) | "
+                    $markdown += "`n"
+                }
+
+                return $markdown
+            }
+        }
+
+        $parts = $token -split ":"
+        $id = $parts[0]
+        $secret = $parts[1]
+
+        $Source = @"
+        using System;
+        public static class ByteConvertor
+        {
+            public static byte[] StringToByteArray(string hex)
+            {
+                int NumberChars = hex.Length;
+                byte[] bytes = new byte[NumberChars / 2];
+                for (int i = 0; i < NumberChars; i += 2)
+                bytes[i / 2] = Convert.ToByte(hex.Substring(i, 2), 16);
+                return bytes;
+            }
+        }
+        "@
+
+        Add-Type -TypeDefinition $Source -Language CSharp 
+        $key = [ByteConvertor]::StringToByteArray($secret)
+        Write-Output "::add-mask::$key"
+
+        Install-Module -Name JWT
+        $jwttoken = New-Jwt -Header (@{
+                "alg" = "HS256"
+                "kid" = $id
+                "typ" = "JWT"
+            } | ConvertTo-Json) -PayloadJson (@{
+                "exp" = ([DateTimeOffset](Get-Date).AddMinutes(2)).ToUnixTimeSeconds()
+                "iat" = ([DateTimeOffset](Get-Date)).ToUnixTimeSeconds()
+                "aud" = "/admin/"
+            } | ConvertTo-Json) -Secret $key
+
+        Write-Output "::add-mask::$jwttoken"
+
+        $headers = @{
+            Authorization  = "Ghost $jwttoken"
+            "Content-Type" = "application/json"
+        }
+
+        $alltrainingpages = Invoke-RestMethod -Uri "https://scrumbug.ghost.io/ghost/api/admin/pages/" -Method GET -Headers $headers
+        foreach ($page in $alltrainingpages.pages) {
+            $trainingpage = $page
+            $uri = "https://scrumbug.ghost.io/ghost/api/admin/pages/$($trainingpage.id)/"
+            $trainingPages = Invoke-RestMethod -Uri $uri -Method GET -Headers $headers
+
+            $mobiledoc = $trainingPages.pages[0].mobiledoc | ConvertFrom-Json -AsHashtable
+
+            foreach ($card in $mobiledoc.cards) {
+                if ($card[0] -eq "markdown") {
+                    $markdown = $card[1].markdown
+                    if ($markdown -match "<!--SCRUM TRAINING(:(?<course>\d+))?-->") {
+                        if ($Matches.course) {
+                            $course = $Matches.course
+                        }
+                        $trainingMarkdown = get-markdown -trainerId $trainerId -courses @($course)
+                    }
+                    $card[1].markdown = $markdown -replace "(?s)(?<=<!--SCRUM TRAINING(:\d+)?-->).*(?=<!--/SCRUM TRAINING-->)", $trainingMarkdown
+                }
+            }
+
+            $body = @{
+                "pages" = @(
+                    @{
+                        "updated_at" = $trainingPages.pages[0].updated_at
+                        "mobiledoc"  = ($mobiledoc | ConvertTo-Json -Depth 10)
+                    }
+                )
+            }
+            $body | ConvertTo-Json
+            Invoke-RestMethod -Uri $uri -Method PUT -Body ($body | ConvertTo-Json) -Headers $headers
+        }
+      shell: pwsh
+      env:
+        trainerId: ${{ inputs.trainer_id }}
+        token: ${{ inputs.ghost_token }}
