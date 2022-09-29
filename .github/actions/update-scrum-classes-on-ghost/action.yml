@@ -37,7 +37,7 @@ runs:
             }
 
             if ($classes.items.Length -gt 0) {
-                $markdown = "`n| Course | Dates | Language | Location |`n| -------- | ------ - | ---------- | ---------- |`n"
+                $markdown = "`n| Course | Dates | Language | Location |`n|--------|-------|----------|----------|`n"
 
                 foreach ($course in $classes.items) {
                     $startDate = get-date -date $course.StartDate
