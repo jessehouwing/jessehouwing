@@ -8,5 +8,6 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - pwsh: |
-      write-host running
+    - script: |
+        write-host running
+      shell: pwsh
