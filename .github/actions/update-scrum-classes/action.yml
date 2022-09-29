@@ -10,8 +10,7 @@ runs:
   steps:
     - run: |
         $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
-                trainerId = "76"
-                courseTypes = @(103, 104, 164, 105, 106, 130, 108, 133, 200, 210, 292 )
+                trainerId = "${{ inputs.trainer_id }}"
             } | ConvertTo-Json)
 
         $markdown = "`n"
