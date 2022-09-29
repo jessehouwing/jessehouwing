@@ -139,7 +139,7 @@ runs:
                     }
                 )
             }
-            $body | ConvertTo-Json
+            Write-Host "Updating: " + $trainingpage.slug
             Invoke-RestMethod -Uri $uri -Method PUT -Body ($body | ConvertTo-Json) -Headers $headers
         }
       shell: pwsh
