@@ -64,7 +64,10 @@ runs:
 
         $parts = $token -split ":"
         $id = $parts[0]
+        Write-Output "::add-mask::$id"
+        
         $secret = $parts[1]
+        Write-Output "::add-mask::$secret"
 
         $Source = @"
         using System;
