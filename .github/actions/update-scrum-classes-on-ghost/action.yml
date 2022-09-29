@@ -24,7 +24,7 @@ runs:
                 [string[]]$courses
             )
 
-            if ($courses.length -gt 0)
+            if ($courses.Length -gt 0)
             {
               $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
                     trainerId   = "$trainerId"
@@ -113,11 +113,16 @@ runs:
             foreach ($card in $mobiledoc.cards) {
                 if ($card[0] -eq "markdown") {
                     $markdown = $card[1].markdown
-                    if ($markdown -match "<!--SCRUM TRAINING(:(?<course>\d+))?-->") {
-                        if ($Matches.course) {
-                            $course = $Matches.course
-                        }
-                        $trainingMarkdown = get-markdown -trainerId $trainerId -courses @($course)
+                    if ($markdown -match "<!--SCRUM TRAINING(:(?<course>\d+))?-->") 
+                    {
+                      if ($Matches.course)
+                      {
+                          $course = $Matches.course
+                          $trainingMarkdown = get-markdown -trainerId 76 -courses @($course)
+                      }
+                      else {
+                          $trainingMarkdown = get-markdown -trainerId 76 -courses @()
+                      }
                     }
                     $card[1].markdown = $markdown -replace "(?s)(?<=<!--SCRUM TRAINING(:\d+)?-->).*(?=<!--/SCRUM TRAINING-->)", $trainingMarkdown
                 }
