@@ -24,7 +24,7 @@ runs:
                 [string[]]$courses
             )
 
-            if (@courses.length -gt 0)
+            if ($courses.length -gt 0)
             {
               $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
                     trainerId   = "$trainerId"
