@@ -15,16 +15,26 @@ runs:
         $trainerId = $env:trainerId
         $token = $env:token
         
+        Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
+        Install-Module -Name JWT -force
+        
         function get-markdown {
             param(
                 [string]$trainerId,
                 [string[]]$courses
             )
 
-            $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
+            if (@courses.length -gt 0)
+            {
+              $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
                     trainerId   = "$trainerId"
                     courseTypes = $courses
                 } | ConvertTo-Json)
+            } else {
+              $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
+                    trainerId   = "$trainerId"
+                } | ConvertTo-Json)
+            }
 
             if ($classes.items.Length -gt 0) {
                 $markdown = "`n | Course | Dates | Language | Location | `n | -------- | ------ - | ---------- | ---------- | `n"
@@ -74,9 +84,6 @@ runs:
         Add-Type -TypeDefinition $Source -Language CSharp 
         $key = [ByteConvertor]::StringToByteArray($secret)
         Write-Output "::add-mask::$key"
-        
-        Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
-        Install-Module -Name JWT -force
         
         $jwttoken = New-Jwt -Header (@{
                 "alg" = "HS256"
