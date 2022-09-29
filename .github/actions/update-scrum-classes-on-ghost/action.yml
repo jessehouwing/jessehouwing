@@ -118,10 +118,10 @@ runs:
                       if ($Matches.course)
                       {
                           $course = $Matches.course
-                          $trainingMarkdown = get-markdown -trainerId 76 -courses @($course)
+                          $trainingMarkdown = get-markdown -trainerId $trainerId -courses @($course)
                       }
                       else {
-                          $trainingMarkdown = get-markdown -trainerId 76 -courses @()
+                          $trainingMarkdown = get-markdown -trainerId $trainerId -courses @()
                       }
                     }
                     $card[1].markdown = $markdown -replace "(?s)(?<=<!--SCRUM TRAINING(:\d+)?-->).*(?=<!--/SCRUM TRAINING-->)", $trainingMarkdown
