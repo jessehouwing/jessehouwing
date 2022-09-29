@@ -40,9 +40,13 @@ runs:
 
         $markdown
 
-        $readme = Get-Content -raw 
+        $readme = Get-Content -raw -path "README.md"
         $readme = $readme -replace "(?s)(?<=<!-- SCRUM-CLASS-LIST:START -->).*(?=<!-- SCRUM-CLASS-LIST:END -->)", $markdown
         Set-Content -path "README.md" -Value $readme
+
+        & git add "README.md"
+        & git commit -m "Updating classes"
+        & git push
 
         & git add "README.md"
         & git commit -m "Updating classes"
