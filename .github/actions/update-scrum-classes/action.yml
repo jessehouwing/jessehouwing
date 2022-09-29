@@ -44,9 +44,8 @@ runs:
         $readme = $readme -replace "(?s)(?<=<!-- SCRUM-CLASS-LIST:START -->).*(?=<!-- SCRUM-CLASS-LIST:END -->)", $markdown
         Set-Content -path "README.md" -Value $readme
 
-        & git add "README.md"
-        & git commit -m "Updating classes"
-        & git push
+        & git config --local user.email "jesse.houwing@gmail.com"
+        & git config --local user.name "Jesse Houwing"
 
         & git add "README.md"
         & git commit -m "Updating classes"
