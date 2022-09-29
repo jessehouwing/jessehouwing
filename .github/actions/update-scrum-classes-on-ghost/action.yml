@@ -74,8 +74,10 @@ runs:
         Add-Type -TypeDefinition $Source -Language CSharp 
         $key = [ByteConvertor]::StringToByteArray($secret)
         Write-Output "::add-mask::$key"
-
-        Install-Module -Name JWT
+        
+        Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
+        Install-Module -Name JWT -force
+        
         $jwttoken = New-Jwt -Header (@{
                 "alg" = "HS256"
                 "kid" = $id
