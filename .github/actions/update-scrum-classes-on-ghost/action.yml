@@ -69,23 +69,7 @@ runs:
         $secret = $parts[1]
         Write-Output "::add-mask::$secret"
 
-        $Source = @"
-        using System;
-        public static class ByteConvertor
-        {
-            public static byte[] StringToByteArray(string hex)
-            {
-                int NumberChars = hex.Length;
-                byte[] bytes = new byte[NumberChars / 2];
-                for (int i = 0; i < NumberChars; i += 2)
-                bytes[i / 2] = Convert.ToByte(hex.Substring(i, 2), 16);
-                return bytes;
-            }
-        }
-        "@
-
-        Add-Type -TypeDefinition $Source -Language CSharp 
-        $key = [ByteConvertor]::StringToByteArray($secret)
+        $key = [Convert]::FromHexString($secret)
         Write-Output "::add-mask::$key"
         
         $jwttoken = New-Jwt -Header (@{
