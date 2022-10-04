@@ -115,8 +115,10 @@ runs:
                 }
             }
 
-            $mobiledoc = ($mobiledoc | ConvertTo-Json -Depth 10)
-            if ($trainingPages.pages[0].mobiledoc -ne $mobiledoc)
+            $mobiledoc = $mobiledoc | ConvertTo-Json -Depth 10
+            $original = ($trainingPages.pages[0].mobiledoc | ConvertFrom-Json -AsHashtable) | ConvertTo-Json -Depth 10
+            
+            if ($original -ne $mobiledoc)
             {
                 $body = @{
                     "pages" = @(
