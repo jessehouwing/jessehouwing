@@ -1,7 +1,7 @@
 name: Update Scrum Classes
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' 
+    - cron: '18 18 * * *' 
   workflow_dispatch:
   
 jobs:
