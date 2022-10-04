@@ -41,12 +41,16 @@ runs:
 
         $readme = Get-Content -raw -path "README.md"
         $readme = $readme -replace "(?s)(?<=<!-- SCRUM-CLASS-LIST:START -->).*(?=<!-- SCRUM-CLASS-LIST:END -->)", $markdown
-        Set-Content -path "README.md" -Value $readme
+        Set-Content -path "README.md" -Value $readme.TrimEnd()
 
         & git config --local user.email "jesse.houwing@gmail.com"
         & git config --local user.name "Jesse Houwing"
 
-        & git add "README.md"
-        & git commit -m "Updating classes"
-        & git push
+        & git diff --exit-code
+        if ($LASTEXITCODE -ne 0)
+        {
+            & git add "README.md"
+            & git commit -m "Updating classes"
+            & git push
+        }
       shell: pwsh
