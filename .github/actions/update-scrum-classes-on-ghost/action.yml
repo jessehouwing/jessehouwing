@@ -115,16 +115,24 @@ runs:
                 }
             }
 
-            $body = @{
-                "pages" = @(
-                    @{
-                        "updated_at" = $trainingPages.pages[0].updated_at
-                        "mobiledoc"  = ($mobiledoc | ConvertTo-Json -Depth 10)
-                    }
-                )
+            $mobiledoc = ($mobiledoc | ConvertTo-Json -Depth 10)
+            if ($trainingPages.pages[0].mobiledoc -ne $mobiledoc)
+            {
+                $body = @{
+                    "pages" = @(
+                        @{
+                            "updated_at" = $trainingPages.pages[0].updated_at
+                            "mobiledoc"  = $mobiledoc
+                        }
+                    )
+                }
+                Write-Host "Updating: $($trainingpage.slug)"
+                $result = Invoke-RestMethod -Uri $uri -Method PUT -Body ($body | ConvertTo-Json) -Headers $headers
             }
-            Write-Host "Updating: $($trainingpage.slug)"
-            $result = Invoke-RestMethod -Uri $uri -Method PUT -Body ($body | ConvertTo-Json) -Headers $headers
+            else 
+            {
+                Write-Host "Skipping: $($trainingpage.slug)"
+            }
         }
       shell: pwsh
       env:
