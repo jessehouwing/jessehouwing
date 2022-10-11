@@ -29,10 +29,17 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 <!-- SCRUM-CLASS-LIST:START -->
  - 🗓️ [Professional Scrum Facilitation Skills - 28 Oct 2022](https://scrum.org/courses/professional-scrum-facilitation-skills-hilversum-netherlands-2022-10-28-63084)
  - 🗓️ [Professional Scrum with Kanban - 3-4 Nov 2022](https://scrum.org/courses/professional-scrum-kanban-2022-11-03-61434)
+ - 🗓️ [Professional Scrum with User Experience - 16-17 Nov 2022](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2022-11-16-63880)
  - 🗓️ [Professional Scrum Master II - 21-22 Nov 2022](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2022-11-21-56413)
  - 🗓️ [Scaled Professional Scrum - 1-2 Dec 2022](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2022-12-01-61956)
  - 🗓️ [Professional Scrum Master - 12-13 Dec 2022](https://scrum.org/courses/professional-scrum-master-2022-12-12-56285)
  - 🗓️ [Professional Scrum with Kanban - 15-16 Dec 2022](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2022-12-15-63508)
+ - 🗓️ [Professional Scrum Master II - 30-31 Jan 2023](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2023-01-30-63892)
+ - 🗓️ [Professional Scrum Master - 13-14 Feb 2023](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2023-02-13-63885)
+ - 🗓️ [Professional Scrum with Kanban - 15-16 Jun 2023](https://scrum.org/courses/professional-scrum-kanban-amsterdam-netherlands-2023-06-15-63905)
+ - 🗓️ [Professional Scrum Product Owner - Advanced - 29-30 Jun 2023](https://scrum.org/courses/professional-scrum-product-owner-advanced-amsterdam-netherlands-2023-06-29-63901)
+ - 🗓️ [Professional Scrum Master - 13-14 Jul 2023](https://scrum.org/courses/professional-scrum-master-2023-07-13-63889)
+ - 🗓️ [Professional Scrum Product Owner - 14-15 Aug 2023](https://scrum.org/courses/professional-scrum-product-owner-2023-08-14-63913)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="90" src="./img/Phoenix Project Game.png">
