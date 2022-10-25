@@ -28,7 +28,6 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <!-- SCRUM-CLASS-LIST:START -->
  - 🗓️ [Professional Scrum Facilitation Skills - 28 Oct 2022](https://scrum.org/courses/professional-scrum-facilitation-skills-hilversum-netherlands-2022-10-28-63084)
- - 🗓️ [Professional Scrum with User Experience - 16-17 Nov 2022](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2022-11-16-63880)
  - 🗓️ [Professional Scrum Master II - 21-22 Nov 2022](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2022-11-21-56413)
  - 🗓️ [Scaled Professional Scrum - 1-2 Dec 2022](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2022-12-01-61956)
  - 🗓️ [Professional Scrum Master - 12-13 Dec 2022](https://scrum.org/courses/professional-scrum-master-2022-12-12-56285)
