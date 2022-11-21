@@ -1,6 +1,6 @@
 🔗 Connect with me
 
-<a rel="me" style="width:60px; height:60px; display:block; break: none;" href="https://hachyderm.io/@jessehouwing">![twitter](./img/light/mastadon.svg#|width=60px&height=60px)</a>[![twitter](./img/light/twitter.svg#|width=60px&height=60px)](https://twitter.com/jessehouwing)[![facebook](./img/light/facebook.svg#|width=60px&height=60px)](https://www.facebook.com/jessehouwing) 
+<a rel="nofollow me" style="width:32px; height:32px; display:block; break: none;" href="https://hachyderm.io/@jessehouwing">![twitter](./img/light/mastadon.svg#|width=60px&height=60px)</a>[![twitter](./img/light/twitter.svg#|width=60px&height=60px)](https://twitter.com/jessehouwing)[![facebook](./img/light/facebook.svg#|width=60px&height=60px)](https://www.facebook.com/jessehouwing) 
 [![linkedin](./img/light/linkedin.svg#|width=60px&height=60px)](https://www.linkedin.com/in/jessehouwing) 
 [![stackoverflow](./img/light/stackoverflow.svg#|width=60px&height=60px)](https://stackoverflow.com/users/736079/jessehouwing) 
 [![instagram](./img/light/instagram.svg#|width=60px&height=60px)](https://www.instagram.com/jesse.houwing/) 
