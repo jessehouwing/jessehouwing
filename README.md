@@ -11,11 +11,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s GitHub&#39;s new require approval of the most recent push policy all about?](https://jessehouwing.net/github-githubs-require-approval-of-the-most-recent-push-policy/)
 - [Issuing workflow commands from the Windows shell in GitHub Actions](https://jessehouwing.net/github-actions-workflow-commands-in-cmd/)
 - [Update Ghost blogs and pages with PowerShell](https://jessehouwing.net/update-ghost-blogs-and-pages-with-powershell/)
 - [Upgrade Hosted Agent / GitHub Runner PowerShell](https://jessehouwing.net/upgrade-hosted-agent-powershell/)
 - [Be Secure and Compliant with GitHub](https://jessehouwing.net/be-secure-and-compliant-with-github/)
-- [Installing git-filter-repo on windows](https://jessehouwing.net/installing-git-filter-repo-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
