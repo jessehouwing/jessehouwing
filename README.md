@@ -9,6 +9,10 @@
 
 <hr />
 
+💗 [Sponsor me](https://github.com/sponsors/jessehouwing/)
+
+<hr />
+
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Security state of the Azure DevOps Marketplace](https://jessehouwing.net/security-state-of-the-azure-devops-marketplace/)
