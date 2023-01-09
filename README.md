@@ -71,6 +71,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 🚀 Azure Pipelines Extensions
 
+ * [Renovate for Azure DevOps Pipelines Marketplace](https://github.com/jessehouwing/renovate-azure-devops-marketplace)
  * [Azure Pipelines TFVC Tasks](https://github.com/jessehouwing/azure-pipelines-tfvc-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-tfvc-tasks)
  * [Azure Pipelines Variable Tasks](https://github.com/jessehouwing/azure-pipelines-variable-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-variable-tasks)
  * [MsBuild Helper Tasks](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task) | [🛍️](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task)
