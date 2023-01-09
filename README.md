@@ -43,13 +43,19 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum Product Owner - 14-15 Aug 2023](https://scrum.org/courses/professional-scrum-product-owner-2023-08-14-63913)
 <!-- SCRUM-CLASS-LIST:END -->
 
+<img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png">
+
+- GitHub Actions
+- GitHub Enterprise Cloud Adminstration
+- GitHub Developer
+
 <img height="60" width="90" src="./img/Phoenix Project Game.png">
 
 - [Phoenix Project Game](https://xebia.com/academy/en/training/phoenix-project-game)
 - [Phoenix Project Game Business Edition](https://xebia.com/academy/en/training/the-phoenix-project)
 
 
-<img height="60" width="60" src="https://images.credly.com/size/340x340/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
+<img height="60" width="60" src="https://images.credly.com/size/340x340/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png"><img height="60" width="40" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"><img height="60" width="40" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"><img height="60" width="40" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
 
 - ⛅ [AZ-900T00-A: Microsoft Azure Fundamentals](https://xebia.com/academy/en/training/certified-azure-foundation)
 - ⛅ [AZ-204T00: Developing Solutions for Microsoft Azure](https://xebia.com/academy/en/training/certified-azure-developer)
