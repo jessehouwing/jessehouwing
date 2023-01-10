@@ -15,11 +15,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enable RenovateBot for Azure Pipelines](https://jessehouwing.net/azure-pipelines-enable-renovatebot/)
 - [Speeding up the Azure DevOps Extension tasks](https://jessehouwing.net/speeding-up-the-azure-devops-extension-tasks/)
 - [Security state of the Azure DevOps Marketplace](https://jessehouwing.net/security-state-of-the-azure-devops-marketplace/)
 - [Definitive solution for log4shell in Azure DevOps Server Search](https://jessehouwing.net/azure-devops-solution-for-log4shell-in-search/)
 - [What&#39;s GitHub&#39;s new require approval of the most recent push policy all about?](https://jessehouwing.net/github-githubs-require-approval-of-the-most-recent-push-policy/)
-- [Issuing workflow commands from the Windows shell in GitHub Actions](https://jessehouwing.net/github-actions-workflow-commands-in-cmd/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
