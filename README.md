@@ -45,9 +45,9 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png">
 
-- GitHub Actions
-- GitHub Enterprise Cloud Adminstration
-- GitHub Developer
+- [GitHub Actions](https://github.com/services/actions-training)
+- [GitHub Enterprise Cloud Adminstration](https://github.com/services/admin-training-github-enterprise-cloud)
+- [GitHub Developer](https://github.com/services/github-for-developers-training)
 
 <img height="60" width="90" src="./img/Phoenix Project Game.png">
 
