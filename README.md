@@ -38,6 +38,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum Product Owner - Advanced - 29-30 Jun 2023](https://scrum.org/courses/professional-scrum-product-owner-advanced-amsterdam-netherlands-2023-06-29-63901)
  - 🗓️ [Professional Scrum Master - 13-14 Jul 2023](https://scrum.org/courses/professional-scrum-master-2023-07-13-63889)
  - 🗓️ [Professional Scrum Product Owner - 14-15 Aug 2023](https://scrum.org/courses/professional-scrum-product-owner-2023-08-14-63913)
+ - 🗓️ [Professional Scrum Master - 30 Nov-1 Dec 2023](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2023-11-30-69404)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png">
