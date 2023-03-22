@@ -39,7 +39,14 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Scaled Professional Scrum - 26-27 Jun 2023](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2023-06-26-68455)
  - 🗓️ [Professional Scrum Product Owner - Advanced - 29-30 Jun 2023](https://scrum.org/courses/professional-scrum-product-owner-advanced-amsterdam-netherlands-2023-06-29-63901)
  - 🗓️ [Professional Scrum Product Owner - 14-15 Aug 2023](https://scrum.org/courses/professional-scrum-product-owner-2023-08-14-63913)
+ - 🗓️ [Professional Scrum with Kanban - 9-10 Oct 2023](https://scrum.org/courses/professional-scrum-kanban-2023-10-09-69951)
+ - 🗓️ [Professional Scrum Master II - 16-17 Oct 2023](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2023-10-16-69935)
+ - 🗓️ [Professional Scrum Master II - 6-7 Nov 2023](https://scrum.org/courses/professional-scrum-master-ii-2023-11-06-69936)
+ - 🗓️ [Professional Scrum with User Experience - 9-10 Nov 2023](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2023-11-09-69954)
+ - 🗓️ [Scaled Professional Scrum - 16-17 Nov 2023](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2023-11-16-69955)
+ - 🗓️ [Professional Scrum with Kanban - 22-23 Nov 2023](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2023-11-22-69953)
  - 🗓️ [Professional Scrum Master - 30 Nov-1 Dec 2023](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2023-11-30-69404)
+ - 🗓️ [Professional Scrum Product Owner - Advanced - 13-14 Dec 2023](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2023-12-13-69949)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png">
