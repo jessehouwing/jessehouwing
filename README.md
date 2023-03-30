@@ -80,7 +80,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  * [Azure Pipelines TFVC Tasks](https://github.com/jessehouwing/azure-pipelines-tfvc-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-tfvc-tasks)
  * [Azure Pipelines Variable Tasks](https://github.com/jessehouwing/azure-pipelines-variable-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-variable-tasks)
  * [MsBuild Helper Tasks](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task) | [🛍️](https://github.com/jessehouwing/azure-pipelines-msbuild-helper-task)
- * [Pre- and Post Script Tasks](https://github.com/jessehouwing/azure-pipelines-pre-and-post-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.pre-post-tasks)
+ * [Pre- and Post Script Tasks](https://github.com/jessehouwing/azure-pipelines-tasks-zips) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.pre-post-tasks)
  * [Gate Condition Editor](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.gate-condition-editor)
  * [Azure DevOps Extension Tasks](https://github.com/microsoft/azure-devops-extension-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-developer-tools-build-tasks)
  * [Ensure Tests](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.vsts-ensure-tests-tasks)
