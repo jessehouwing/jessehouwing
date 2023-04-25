@@ -32,6 +32,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <!-- SCRUM-CLASS-LIST:START -->
  - 🗓️ [Scaled Professional Scrum - 8-9 May 2023](https://scrum.org/courses/scaled-professional-scrum-2023-05-08-65358)
+ - 🗓️ [Professional Scrum Master II - 22-23 May 2023](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2023-05-22-69811)
  - 🗓️ [Professional Scrum Master - 24-25 May 2023](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2023-05-24-64034)
  - 🗓️ [Professional Scrum Facilitation Skills - 14 Jun 2023](https://scrum.org/courses/professional-scrum-facilitation-skills-amsterdam-netherlands-2023-06-14-65366)
  - 🗓️ [Professional Scrum with Kanban - 15-16 Jun 2023](https://scrum.org/courses/professional-scrum-kanban-amsterdam-netherlands-2023-06-15-63905)
