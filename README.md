@@ -37,9 +37,10 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum with Kanban - 9-10 Oct 2023](https://scrum.org/courses/professional-scrum-kanban-2023-10-09-69951)
  - 🗓️ [Professional Scrum Master II - 16-17 Oct 2023](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2023-10-16-69935)
  - 🗓️ [Professional Scrum Master II - 26-27 Oct 2023](https://scrum.org/courses/professional-scrum-master-ii-2023-10-26-74400)
+ - 🗓️ [Professional Scrum Master - 30-31 Oct 2023](https://scrum.org/courses/professional-scrum-master-2023-10-30-69405)
  - 🗓️ [Professional Scrum with User Experience - 9-10 Nov 2023](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2023-11-09-69954)
  - 🗓️ [Scaled Professional Scrum - 16-17 Nov 2023](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2023-11-16-69955)
- - 🗓️ [Professional Scrum with Kanban - 22-23 Nov 2023](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2023-11-22-69953)
+ - 🗓️ [Professional Scrum with Kanban - 20-21 Nov 2023](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2023-11-20-74427)
  - 🗓️ [Professional Scrum Master - 30 Nov-1 Dec 2023](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2023-11-30-69404)
  - 🗓️ [Professional Scrum Product Owner - Advanced - 13-14 Dec 2023](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2023-12-13-69949)
 <!-- SCRUM-CLASS-LIST:END -->
