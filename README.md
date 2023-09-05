@@ -6,7 +6,7 @@
 [![instagram](./img/light/instagram.svg#|width=60px&height=60px)](https://www.instagram.com/jesse.houwing/) 
 [![youtube](./img/light/youtube.svg#|width=60px&height=60px)](https://www.youtube.com/c/JesseHouwing/) 
 [![rss](./img/light/rss.svg#|width=60px&height=60px)](https://jessehouwing.net/)
-
+[![bluesky](./img/light/bsky.svg#|width=60px&height=60px)]([https://jessehouwing.net/](https://bsky.app/profile/jessehouwing.net))
 <hr />
 
 💗 [Sponsor me](https://github.com/sponsors/jessehouwing/)
