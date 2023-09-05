@@ -70,6 +70,12 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <hr />
 
+▶️ GitHub Actions
+
+* [Actions SemVer Checker Action](https://github.com/marketplace/actions/actions-semver-checker)
+
+<hr />
+
 🚀 Azure Pipelines Extensions
 
  * [Renovate for Azure DevOps Pipelines Marketplace](https://github.com/jessehouwing/renovate-azure-devops-marketplace)
