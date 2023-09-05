@@ -56,7 +56,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 - [Phoenix Project Game Business Edition](https://xebia.com/academy/en/training/the-phoenix-project)
 
 
-<img height="60" width="60" src="https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
+<img height="60" width="60" src="https://images.credly.com/size/340x340/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
 
 - ⛅ [AZ-900T00-A: Microsoft Azure Fundamentals](https://xebia.com/academy/en/training/certified-azure-foundation)
 - ⛅ [AZ-204T00: Developing Solutions for Microsoft Azure](https://xebia.com/academy/en/training/certified-azure-developer)
