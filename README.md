@@ -73,7 +73,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 ▶️ GitHub Actions
 
-* [Actions SemVer Checker Action](https://github.com/jessehouwing/actions-semver-checker) |[🛍️]https://github.com/marketplace/actions/actions-semver-checker)
+* [Actions SemVer Checker Action](https://github.com/jessehouwing/actions-semver-checker) | [🛍️](https://github.com/marketplace/actions/actions-semver-checker)
 
 <hr />
 
