@@ -42,6 +42,16 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Scaled Professional Scrum - 16-17 Nov 2023](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2023-11-16-69955)
  - 🗓️ [Professional Scrum with Kanban - 20-21 Nov 2023](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2023-11-20-74427)
  - 🗓️ [Professional Scrum Product Owner - Advanced - 13-14 Dec 2023](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2023-12-13-69949)
+ - 🗓️ [Professional Scrum Master II - 22-23 Jan 2024](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2024-01-22-76038)
+ - 🗓️ [Professional Scrum Master - 1-2 Feb 2024](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2024-02-01-75993)
+ - 🗓️ [Professional Scrum with User Experience - 15-16 Feb 2024](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2024-02-15-76031)
+ - 🗓️ [Professional Scrum Product Owner - Advanced - 25-26 Mar 2024](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2024-03-25-76110)
+ - 🗓️ [Professional Scrum Product Owner - 22-23 Apr 2024](https://scrum.org/courses/professional-scrum-product-owner-2024-04-22-76093)
+ - 🗓️ [Professional Scrum Master - 29-30 Apr 2024](https://scrum.org/courses/professional-scrum-master-2024-04-29-76018)
+ - 🗓️ [Professional Scrum Product Owner - 10-11 Jun 2024](https://scrum.org/courses/professional-scrum-product-owner-hilversum-netherlands-2024-06-10-76071)
+ - 🗓️ [Professional Scrum Master - 16-17 Sep 2024](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2024-09-16-76001)
+ - 🗓️ [Professional Scrum with User Experience - 7-8 Oct 2024](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2024-10-07-76032)
+ - 🗓️ [Professional Scrum Master II - 17-18 Oct 2024](https://scrum.org/courses/professional-scrum-master-ii-2024-10-17-76055)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png">
