@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Investigating az-cli performance on the hosted Azure Pipelines and GitHub Runners](https://jessehouwing.net/az-cli-performance-azure-pipelines-and-github-runner/)
 - [VSBuild task fails on self-hosted Azure Pipelines Agent](https://jessehouwing.net/vsbuild-task-fails-on-self-hosted-azure-pipelines-agent/)
 - [Protect the repository hosting your GitHub Action](https://jessehouwing.net/protect-the-repository-hosting-your-github-action/)
 - [Publish Azure DevOps Extensions using Azure Workload Identity](https://jessehouwing.net/publish-azure-devops-extensions-using-workload-identity-oidc/)
 - [Tips &amp; tricks: Git under WSL and windows](https://jessehouwing.net/tips-tricks-git-under-wsl-and-windows/)
-- [Hey! You broke our pipeline!](https://jessehouwing.net/azure-pipelines-you-broke-our-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
