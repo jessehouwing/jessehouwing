@@ -32,7 +32,6 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 <img height="60" width="60" src="https://images.credly.com/size/340x340/images/41d567f7-f570-49aa-bb6d-8d8b328c2b61/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/d90cc9bc-3e9a-49b2-ac09-7930db400e32/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/591762c5-fae7-49c6-b326-e1756979928d/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/0a8590ce-08e2-493f-b45a-e2c9ee8c848c/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/78c2bf96-9468-40ac-aee7-3eac9d79a6d5/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/253d8e52-e0bb-4806-87f8-b46784afea51/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/ab5a94a3-3d62-4d02-a3c8-7a72524f4d12/image.png"><img height="60" width="60" src="https://images.credly.com/size/220x220/images/026ffcf1-b2db-48dd-8cae-01e43d0e7354/image.png">
 
 <!-- SCRUM-CLASS-LIST:START -->
- - 🗓️ [Professional Scrum with Kanban - 9-10 Oct 2023](https://scrum.org/courses/professional-scrum-kanban-2023-10-09-69951)
  - 🗓️ [Professional Scrum Master II - 16-17 Oct 2023](https://scrum.org/courses/professional-scrum-master-ii-hilversum-netherlands-2023-10-16-69935)
  - 🗓️ [Professional Scrum Master II - 26-27 Oct 2023](https://scrum.org/courses/professional-scrum-master-ii-2023-10-26-74400)
  - 🗓️ [Professional Scrum Master - 30-31 Oct 2023](https://scrum.org/courses/professional-scrum-master-2023-10-30-69405)
@@ -52,6 +51,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum Master - 16-17 Sep 2024](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2024-09-16-76001)
  - 🗓️ [Scaled Professional Scrum - 26-27 Sep 2024](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2024-09-26-76277)
  - 🗓️ [Professional Scrum with User Experience - 7-8 Oct 2024](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2024-10-07-76032)
+ - 🗓️ [Professional Scrum Facilitation Skills - 14 Oct 2024](https://scrum.org/courses/professional-scrum-facilitation-skills-amsterdam-netherlands-2024-10-14-76288)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png">
