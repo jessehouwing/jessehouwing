@@ -98,6 +98,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  * [Ensure Tests](https://github.com/jessehouwing/azure-pipelines-gate-condition-editor) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.vsts-ensure-tests-tasks)
  * [Agent Screenshot](https://github.com/jessehouwing/azure-pipelines-agent-screenshot) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.agent-screenshot)
  * [Azure Pipelines Task Zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips) | [🛍️](https://github.com/jessehouwing/azure-pipelines-tasks-zips#extension)
+ * [Nuget (Deprecated](https://github.com/jessehouwing/azure-pipelines-tasks-zips) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.nuget-deprecated)
  
 <hr />
 
