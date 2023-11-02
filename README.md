@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Allow people to find you on Mastadon from your Ghost Pro domain](https://jessehouwing.net/allow-people-to-find-you-on-mastadon-from-your-ghost-pro-domain/)
 - [Accessing &lpar;private&rpar; GitHub resources from a Codespace](https://jessehouwing.net/github-codespaces-access-additional-resources/)
 - [Investigating az-cli performance on the hosted Azure Pipelines and GitHub Runners](https://jessehouwing.net/az-cli-performance-azure-pipelines-and-github-runner/)
 - [VSBuild task fails on self-hosted Azure Pipelines Agent](https://jessehouwing.net/vsbuild-task-fails-on-self-hosted-azure-pipelines-agent/)
 - [Protect the repository hosting your GitHub Action](https://jessehouwing.net/protect-the-repository-hosting-your-github-action/)
-- [Publish Azure DevOps Extensions using Azure Workload Identity](https://jessehouwing.net/publish-azure-devops-extensions-using-workload-identity-oidc/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
