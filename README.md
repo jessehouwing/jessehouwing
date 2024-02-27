@@ -43,7 +43,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Scaled Professional Scrum - 26-27 Sep 2024](https://scrum.org/courses/scaled-professional-scrum-hilversum-netherlands-2024-09-26-76277)
  - 🗓️ [Professional Scrum with User Experience - 7-8 Oct 2024](https://scrum.org/courses/professional-scrum-user-experience-hilversum-netherlands-2024-10-07-76032)
  - 🗓️ [Professional Scrum Facilitation Skills - 14 Oct 2024](https://scrum.org/courses/professional-scrum-facilitation-skills-amsterdam-netherlands-2024-10-14-76288)
- - 🗓️ [Professional Scrum Master II - 17-18 Oct 2024](https://scrum.org/courses/professional-scrum-master-ii-2024-10-17-76055)
+ - 🗓️ [Professional Scrum Master - Advanced - 17-18 Oct 2024](https://scrum.org/courses/professional-scrum-master-advanced-2024-10-17-76055)
  - 🗓️ [Professional Scrum Product Owner - 21-22 Oct 2024](https://scrum.org/courses/professional-scrum-product-owner-berlin-germany-2024-10-21-82060)
  - 🗓️ [Applying Professional Scrum for Software Development - 13-15 Nov 2024](https://scrum.org/courses/applying-professional-scrum-software-development-hilversum-netherlands-2024-11-13-76058)
  - 🗓️ [Professional Scrum Product Owner - 18-19 Nov 2024](https://scrum.org/courses/professional-scrum-product-owner-2024-11-18-76094)
