@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scan all workflow artifacts for leaked secrets](https://jessehouwing.net/github-actions-scan-all-workflow-artifacts-for-leaked-secrets/)
 - [Looking back on the Global DevOps Experience](https://jessehouwing.net/github-looking-back-on-the-global-devops-experience/)
 - [The use or uselessness of signed commits](https://jessehouwing.net/github-the-use-or-uselessness-of-signed-commits/)
 - [Don&#39;t get lost in your plans](https://jessehouwing.net/github-projects-dont-get-lost-in-your-plans/)
 - [Restrict GitHub branches to specific prefixes](https://jessehouwing.net/restrict-github-branches-to-specific-prefixes/)
-- [Recommendations for using Azure CLI in your workflow](https://jessehouwing.net/recommendations-for-using-azure-cli-in-your-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
