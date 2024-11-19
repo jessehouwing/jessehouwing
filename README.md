@@ -36,8 +36,12 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum Product Owner - 28-29 Nov 2024](https://scrum.org/courses/professional-scrum-product-owner-hilversum-netherlands-2024-11-28-76084)
  - 🗓️ [Professional Scrum Product Owner - 9-10 Dec 2024](https://scrum.org/courses/professional-scrum-product-owner-hilversum-netherlands-2024-12-09-76085)
  - 🗓️ [Professional Scrum Master - Advanced - 23-24 Jan 2025](https://scrum.org/courses/professional-scrum-master-advanced-hilversum-netherlands-2025-01-23-90379)
+ - 🗓️ [Professional Scrum with Kanban - 6-7 Feb 2025](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2025-02-06-91477)
+ - 🗓️ [Professional Scrum Product Owner - Advanced - 17-18 Mar 2025](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2025-03-17-91466)
  - 🗓️ [Professional Scrum Product Owner - 8-9 May 2025](https://scrum.org/courses/professional-scrum-product-owner-hilversum-netherlands-2025-05-08-91040)
  - 🗓️ [Professional Scrum Master - 22-23 May 2025](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2025-05-22-89813)
+ - 🗓️ [Professional Scrum with Kanban - 4-5 Sep 2025](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2025-09-04-91479)
+ - 🗓️ [Professional Scrum Facilitation Skills - 12 Sep 2025](https://scrum.org/courses/professional-scrum-facilitation-skills-hilversum-netherlands-2025-09-12-91480)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png">
