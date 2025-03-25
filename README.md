@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;repost&rpar; Protect the repository hosting your GitHub Action](https://jessehouwing.net/repost-protect-the-repository-hosting-your-github-action/)
 - [Say goodbye to your Personal Access Tokens](https://jessehouwing.net/azure-devops-say-goodbye-to-personal-access-tokens-pats/)
 - [GitHub&#39;s new Billing - Assigning Cost Centers in Bulk](https://jessehouwing.net/githubs-new-billing-assigning-cost-centers-in-bulk/)
 - [Use inline completions for more answers with GitHub Copilot Free](https://jessehouwing.net/github-copilot-free-use-inline-completions-for-more-answers/)
 - [Troubleshooting GitHub Copilot keyboard shortcuts in Jetbrains IDEs](https://jessehouwing.net/troubleshooting-github-copilot-keyboard-shortcuts-in-jetbrains-ides/)
-- [Scan all workflow artifacts for leaked secrets](https://jessehouwing.net/github-actions-scan-all-workflow-artifacts-for-leaked-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
