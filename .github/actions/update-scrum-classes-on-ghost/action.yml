@@ -4,6 +4,9 @@ inputs:
   trainer_id:  
     description: 'Id of the trainer'
     required: true
+  user_agent:
+    description: 'User agent to use for the API request'
+    required: true
   ghost_token:
     description: 'Ghost API token'
     required: true
@@ -14,6 +17,9 @@ runs:
     - run: |
         $trainerId = $env:trainerId
         $token = $env:token
+        $searchHeaders = @{
+            "User-Agent" = $env:userAgent
+        }
         
         Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
         Install-Module -Name JWT -force
@@ -34,7 +40,7 @@ runs:
               $body = @{ trainerId   = "$trainerId" } 
             }
             
-            $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body ($body | ConvertTo-Json)
+            $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Headers $searchHeaders -Method POST -Body ($body | ConvertTo-Json)
 
             if ($classes.items.Length -gt 0) {
                 $markdown = "`n| Course | Dates | Language | Location |`n|--------|-------|----------|----------|`n"
@@ -87,6 +93,7 @@ runs:
         $headers = @{
             Authorization  = "Ghost $jwttoken"
             "Content-Type" = "application/json"
+            "User-Agent" = $env:userAgent
         }
 
         $alltrainingpages = Invoke-RestMethod -Uri "https://scrumbug.ghost.io/ghost/api/admin/pages/" -Method GET -Headers $headers
@@ -140,3 +147,4 @@ runs:
       env:
         trainerId: ${{ inputs.trainer_id }}
         token: ${{ inputs.ghost_token }}
+        userAgent: ${{ inputs.user_agent }}

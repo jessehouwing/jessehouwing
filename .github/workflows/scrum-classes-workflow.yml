@@ -15,6 +15,7 @@ jobs:
         uses: jessehouwing/jessehouwing/.github/actions/update-scrum-classes@main
         with:
           trainer_id: 76
+          user_agent: 'JesseHouwingScript'
   update-blog-with-scrumclasses:
     runs-on: ubuntu-latest
     name: Update Ghost Blog
@@ -23,4 +24,5 @@ jobs:
         uses: jessehouwing/jessehouwing/.github/actions/update-scrum-classes-on-ghost@main
         with:
           trainer_id: 76
+          user_agent: 'JesseHouwingScript'
           ghost_token: ${{ secrets.GHOST_TOKEN }}

@@ -4,12 +4,19 @@ inputs:
   trainer_id:  
     description: 'Id of the trainer'
     required: true
+  user_agent:
+    description: 'User agent to use for the API request'
+    required: true
 
 runs:
   using: "composite"
   steps:
     - run: |
-        $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Method POST -Body (@{ 
+        $headers = @{
+            "User-Agent" = ${{ inputs.user_agent }}
+        }
+
+        $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Headers $headers -Method POST -Body (@{ 
                 trainerId = "${{ inputs.trainer_id }}"
             } | ConvertTo-Json)
 
