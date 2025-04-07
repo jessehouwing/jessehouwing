@@ -13,7 +13,7 @@ runs:
   steps:
     - run: |
         $headers = @{
-            "User-Agent" = ${{ inputs.user_agent }}
+            "User-Agent" = $env:UserAgent
         }
 
         $classes = Invoke-RestMethod -Uri "https://www.scrum.org/api/class-search" -Headers $headers -Method POST -Body (@{ 
@@ -61,3 +61,5 @@ runs:
             & git push
         }
       shell: pwsh
+      env:
+        UserAgent: ${{ inputs.user_agent }}
