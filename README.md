@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Picking the right GitHub Copilot model](https://jessehouwing.net/github-copilot-picking-the-right-model/)
 - [Create GitHub issue hierarchy using the API](https://jessehouwing.net/create-github-issue-hierarchy-using-the-api/)
 - [Running Model Context protocol servers in a specific Node version inside Visual Studio Code](https://jessehouwing.net/vscode-running-mcp-using-node-version/)
 - [&lpar;repost&rpar; Protect the repository hosting your GitHub Action](https://jessehouwing.net/repost-protect-the-repository-hosting-your-github-action/)
 - [Say goodbye to your Personal Access Tokens](https://jessehouwing.net/azure-devops-say-goodbye-to-personal-access-tokens-pats/)
-- [GitHub&#39;s new Billing - Assigning Cost Centers in Bulk](https://jessehouwing.net/githubs-new-billing-assigning-cost-centers-in-bulk/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
