@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions learnings from the recent nx hack](https://jessehouwing.net/github-actions-learnings-from-the-recent-nx-hack/)
 - [Authenticate Connect-MgGraph  using OIDC in GitHub Actions](https://jessehouwing.net/authenticate-connect-mggraph-using-oidc-in-github-actions/)
 - [Picking the right GitHub Copilot model](https://jessehouwing.net/github-copilot-picking-the-right-model/)
 - [Create GitHub issue hierarchy using the API](https://jessehouwing.net/create-github-issue-hierarchy-using-the-api/)
 - [Running Model Context protocol servers in a specific Node version inside Visual Studio Code](https://jessehouwing.net/vscode-running-mcp-using-node-version/)
-- [&lpar;repost&rpar; Protect the repository hosting your GitHub Action](https://jessehouwing.net/repost-protect-the-repository-hosting-your-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
