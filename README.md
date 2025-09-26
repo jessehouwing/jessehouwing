@@ -35,6 +35,12 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum Product Owner - Advanced - 13-14 Nov 2025](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2025-11-13-91470)
  - 🗓️ [Professional Scrum with Kanban - 17-18 Nov 2025](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2025-11-17-91939)
  - 🗓️ [Professional Scrum Master - 20-21 Nov 2025](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2025-11-20-89816)
+ - 🗓️ [Professional Scrum with Kanban - 12-13 Feb 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-02-12-100164)
+ - 🗓️ [Professional Scrum Master - 26-27 Feb 2026](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2026-02-26-100147)
+ - 🗓️ [Professional Scrum Master - Advanced - 9-10 Apr 2026](https://scrum.org/courses/professional-scrum-master-advanced-hilversum-netherlands-2026-04-09-100158)
+ - 🗓️ [Professional Scrum with Kanban - 25-26 Jun 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-06-25-100165)
+ - 🗓️ [Professional Scrum with Kanban - 5-6 Oct 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-10-05-100166)
+ - 🗓️ [Professional Scrum with Kanban - 16-17 Nov 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-11-16-100167)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png">
