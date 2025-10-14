@@ -35,6 +35,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
  - 🗓️ [Professional Scrum Product Owner - Advanced - 13-14 Nov 2025](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2025-11-13-91470)
  - 🗓️ [Professional Scrum with Kanban - 17-18 Nov 2025](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2025-11-17-91939)
  - 🗓️ [Professional Scrum Master - 20-21 Nov 2025](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2025-11-20-89816)
+ - 🗓️ [Applying Professional Scrum for Software Development - 17-19 Dec 2025](https://scrum.org/courses/applying-professional-scrum-software-development-hilversum-netherlands-2025-12-17-100638)
  - 🗓️ [Professional Scrum with Kanban - 12-13 Feb 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-02-12-100164)
  - 🗓️ [Professional Scrum Master - 26-27 Feb 2026](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2026-02-26-100147)
  - 🗓️ [Professional Scrum Master - Advanced - 9-10 Apr 2026](https://scrum.org/courses/professional-scrum-master-advanced-hilversum-netherlands-2026-04-09-100158)
