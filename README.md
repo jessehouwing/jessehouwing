@@ -76,6 +76,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 ▶️ GitHub Actions
 
 * [Actions SemVer Checker Action](https://github.com/jessehouwing/actions-semver-checker) | [🛍️](https://github.com/marketplace/actions/actions-semver-checker)
+* [Actions Dependency Submission](https://github.com/jessehouwing/actions-dependency-submission) | [🛍️](https://github.com/marketplace/actions/github-actions-dependency-submission)
 
 <hr />
 
