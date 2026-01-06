@@ -14,7 +14,8 @@ inputs:
 runs:
     using: "composite"
     steps:
-      - run: $env:GITHUB_ACTION_PATH/update-scrum-classes.ps1 -trainerId $env:trainerId -token $env:token -userAgent $env:userAgent
+      - run: |
+            & (Join-Path $env:GITHUB_ACTION_PATH 'update-scrum-classes.ps1') -trainerId $env:trainerId -token $env:token -userAgent $env:userAgent
         shell: pwsh
         env:
             trainerId: ${{ inputs.trainer_id }}
