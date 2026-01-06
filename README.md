@@ -49,21 +49,22 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png">
 
-- [GitHub Actions](https://github.com/services/actions-training)
-- [GitHub Enterprise Cloud Adminstration](https://github.com/services/admin-training-github-enterprise-cloud)
-- [GitHub Developer](https://github.com/services/github-for-developers-training)
+- [GitHub Actions](https://github.com/services#services-catalog)
+- [GitHub Enterprise Cloud Adminstration](https://github.com/services#services-catalog)
+- [GitHub Developer](https://github.com/services#services-catalog)
+- [GitHub Advanced Security](https://github.com/services#services-catalog)
+- [GitHub Copilot](https://github.com/services#services-catalog)
 
 <img height="60" width="90" src="./img/Phoenix Project Game.png">
 
-- [Phoenix Project Game](https://xebia.com/academy/en/training/phoenix-project-game)
-- [Phoenix Project Game Business Edition](https://xebia.com/academy/en/training/the-phoenix-project)
-
+- [Phoenix Project Game](https://academy.xebia.com/training/phoenix-project-game/)
 
 <img height="60" width="60" src="https://images.credly.com/size/340x340/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"><img height="60" width="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
 
-- ⛅ [AZ-900T00-A: Microsoft Azure Fundamentals](https://xebia.com/academy/en/training/certified-azure-foundation)
-- ⛅ [AZ-204T00: Developing Solutions for Microsoft Azure](https://xebia.com/academy/en/training/certified-azure-developer)
-- ⛅ [AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions](https://xebia.com/academy/en/training/microsoft-azure-devops-engineer)
+- 💡 [AI-900T00: Introduction to AI in Azure](https://academy.xebia.com/training/ai-900-microsoft-azure-ai-fundamentals/)
+- ⛅ [AZ-900T00-A: Microsoft Azure Fundamentals](https://academy.xebia.com/training/certified-azure-foundation-az-900/)
+- ⛅ [AZ-204T00: Developing Solutions for Microsoft Azure](https://academy.xebia.com/training/certified-azure-developer-204/)
+- ⛅ [AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions](https://academy.xebia.com/training/microsoft-azure-devops-engineer-expert-az-400/)
 
 <hr />
 
