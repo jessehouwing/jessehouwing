@@ -34,7 +34,6 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 <!-- SCRUM-CLASS-LIST:START -->
  - 🗓️ [Professional Scrum Master - Advanced - 4-5 Feb 2026](https://scrum.org/courses/professional-scrum-master-advanced-hilversum-netherlands-2026-02-04-100155)
  - 🗓️ [Professional Scrum Product Owner - 9-10 Feb 2026](https://scrum.org/courses/professional-scrum-product-owner-hilversum-netherlands-2026-02-09-82669)
- - 🗓️ [Professional Scrum with Kanban - 12-13 Feb 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-02-12-100164)
  - 🗓️ [Professional Scrum Master - 26-27 Feb 2026](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2026-02-26-100147)
  - 🗓️ [Professional Scrum Master - Advanced - 9-10 Apr 2026](https://scrum.org/courses/professional-scrum-master-advanced-hilversum-netherlands-2026-04-09-100158)
  - 🗓️ [Professional Scrum Product Owner - Advanced - 23-24 Apr 2026](https://scrum.org/courses/professional-scrum-product-owner-advanced-hilversum-netherlands-2026-04-23-100294)
