@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatic versioning for GitHub Actions authors](https://jessehouwing.net/github-actions-automatic-versioning-for-actions/)
 - [Improved Dependency Submission for GitHub Actions](https://jessehouwing.net/github-actions-improved-dependency-submission/)
 - [GitHub Billing - Let Organization and Repository admins set the Cost Center in GitHub](https://jessehouwing.net/github-billing-cost-centers-set-by-organization-and-repository-owners/)
 - [GitHub Actions learnings from the recent nx hack](https://jessehouwing.net/github-actions-learnings-from-the-recent-nx-hack/)
 - [Authenticate Connect-MgGraph  using OIDC in GitHub Actions](https://jessehouwing.net/authenticate-connect-mggraph-using-oidc-in-github-actions/)
-- [Picking the right GitHub Copilot model](https://jessehouwing.net/github-copilot-picking-the-right-model/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
