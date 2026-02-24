@@ -74,7 +74,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 ▶️ GitHub Actions
 
-* [Azdo Marketplace Action](https://github.com/jessehouwing/azdo-marketplace) <!--| [🛍️](https://github.com/marketplace/actions/azdo-marketplace)-->
+* [Azdo Marketplace Action](https://github.com/jessehouwing/azdo-marketplace) | [🛍️](https://github.com/marketplace/actions/azdo-marketplace-action)
 * [Actions Example Checker Action](https://github.com/jessehouwing/actions-example-checker) | [🛍️](https://github.com/marketplace/actions/actions-example-checker)
 * [Actions SemVer Checker Action](https://github.com/jessehouwing/actions-semver-checker) | [🛍️](https://github.com/marketplace/actions/actions-semver-checker)
 * [Actions Dependency Submission](https://github.com/jessehouwing/actions-dependency-submission) | [🛍️](https://github.com/marketplace/actions/github-actions-dependency-submission)
@@ -84,7 +84,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 
 🚀 Azure Pipelines Extensions
 
- * [Azdo Marketplace Extension](https://github.com/jessehouwing/azdo-marketplace) <!--| [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.azdo-marketplace-extension)-->
+ * [Azdo Marketplace Extension](https://github.com/jessehouwing/azdo-marketplace) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.azdo-marketplace-extension)
  * [Renovate for Azure DevOps Pipelines Marketplace](https://github.com/jessehouwing/renovate-azure-devops-marketplace)
  * [Azure Pipelines TFVC Tasks](https://github.com/jessehouwing/azure-pipelines-tfvc-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-tfvc-tasks)
  * [Azure Pipelines Variable Tasks](https://github.com/jessehouwing/azure-pipelines-variable-tasks) | [🛍️](https://marketplace.visualstudio.com/items?itemName=jessehouwing.jessehouwing-vsts-variable-tasks)
