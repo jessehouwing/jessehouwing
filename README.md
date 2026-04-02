@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot will start training on your interactions](https://jessehouwing.net/github-copilot-will-start-training-on-your-interactions/)
 - [Introducing Azure DevOps Marketplace tasks and actions: A Complete Rebuild for Speed, Stability, and Security](https://jessehouwing.net/azure-devops-marketplace-tasks-and-actions/)
 - [Keep your examples in sync with your Action](https://jessehouwing.net/keep-your-examples-in-sync-with-your-action/)
 - [Automatic versioning for GitHub Actions authors](https://jessehouwing.net/github-actions-automatic-versioning-for-actions/)
 - [Improved Dependency Submission for GitHub Actions](https://jessehouwing.net/github-actions-improved-dependency-submission/)
-- [GitHub Billing - Let Organization and Repository admins set the Cost Center in GitHub](https://jessehouwing.net/github-billing-cost-centers-set-by-organization-and-repository-owners/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
