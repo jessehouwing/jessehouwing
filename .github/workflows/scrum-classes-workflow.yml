@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
       - name: Update classes on GitHub profile
-        uses: jessehouwing/jessehouwing/.github/actions/update-scrum-classes@main
+        uses: jessehouwing/jessehouwing/.github/actions/update-scrum-classes@8a0e2f54f1e10cefac3f660ea9fdaeeb99cf5e40 # main
         with:
           trainer_id: 76
           user_agent: 'JesseHouwingScript'
@@ -21,7 +21,7 @@ jobs:
     name: Update Ghost Blog
     steps:
       - name: Update classes on Ghost Blog
-        uses: jessehouwing/jessehouwing/.github/actions/update-scrum-classes-on-ghost@main
+        uses: jessehouwing/jessehouwing/.github/actions/update-scrum-classes-on-ghost@8a0e2f54f1e10cefac3f660ea9fdaeeb99cf5e40 # main
         with:
           trainer_id: 76
           user_agent: 'JesseHouwingScript'
