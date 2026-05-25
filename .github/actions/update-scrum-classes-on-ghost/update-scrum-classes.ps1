@@ -13,9 +13,40 @@ $searchHeaders = @{
     "User-Agent" = $userAgent
 }
 
-Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
-Install-Module -Name JWT -force
-Import-Module JWT -Force
+function ConvertTo-Base64Url {
+    param(
+        [byte[]]$bytes
+    )
+
+    return [Convert]::ToBase64String($bytes).TrimEnd('=').
+        Replace('+', '-').
+        Replace('/', '_')
+}
+
+function New-HmacSha256Jwt {
+    param(
+        [hashtable]$header,
+        [hashtable]$payload,
+        [byte[]]$secret
+    )
+
+    $headerJson = $header | ConvertTo-Json -Compress
+    $payloadJson = $payload | ConvertTo-Json -Compress
+
+    $encodedHeader = ConvertTo-Base64Url -bytes ([Text.Encoding]::UTF8.GetBytes($headerJson))
+    $encodedPayload = ConvertTo-Base64Url -bytes ([Text.Encoding]::UTF8.GetBytes($payloadJson))
+    $signingInput = "$encodedHeader.$encodedPayload"
+
+    $hmac = [System.Security.Cryptography.HMACSHA256]::new($secret)
+    try {
+        $signature = $hmac.ComputeHash([Text.Encoding]::UTF8.GetBytes($signingInput))
+    }
+    finally {
+        $hmac.Dispose()
+    }
+
+    return "$signingInput.$(ConvertTo-Base64Url -bytes $signature)"
+}
 
 function get-markdown {
     param(
@@ -144,15 +175,15 @@ Write-Output "::add-mask::$secret"
 $key = [Convert]::FromHexString($secret)
 Write-Output "::add-mask::$key"
 
-$jwttoken = New-Jwt -Header (@{
+$jwttoken = New-HmacSha256Jwt -Header @{
         "alg" = "HS256"
         "kid" = $id
         "typ" = "JWT"
-    } | ConvertTo-Json) -PayloadJson (@{
+    } -Payload @{
         "exp" = ([DateTimeOffset](Get-Date).AddMinutes(2)).ToUnixTimeSeconds()
         "iat" = ([DateTimeOffset](Get-Date)).ToUnixTimeSeconds()
         "aud" = "/admin/"
-    } | ConvertTo-Json) -Secret $key
+    } -Secret $key
 
 Write-Output "::add-mask::$jwttoken"
 
