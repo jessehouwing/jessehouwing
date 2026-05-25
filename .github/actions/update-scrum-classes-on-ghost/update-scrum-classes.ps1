@@ -15,6 +15,7 @@ $searchHeaders = @{
 
 Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
 Install-Module -Name JWT -force
+Import-Module JWT -Force
 
 function get-markdown {
     param(
