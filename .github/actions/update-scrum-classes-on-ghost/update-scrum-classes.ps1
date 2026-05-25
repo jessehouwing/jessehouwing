@@ -18,9 +18,7 @@ function ConvertTo-Base64Url {
         [byte[]]$bytes
     )
 
-    return [Convert]::ToBase64String($bytes).TrimEnd('=').
-        Replace('+', '-').
-        Replace('/', '_')
+    return [Convert]::ToBase64String($bytes).TrimEnd('=').Replace('+', '-').Replace('/', '_')
 }
 
 function New-HmacSha256Jwt {
