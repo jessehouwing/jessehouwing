@@ -8,6 +8,6 @@ updates:
   - package-ecosystem: "github-actions" # See documentation for possible values
     directories: 
      - "/" # Location of package manifests
-     - "/.github/actions"
+     - "/.github/actions/*/"
     schedule:
       interval: "weekly"
