@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Configure Azure Pipelines app in ghe.com](https://jessehouwing.net/configure-azure-pipelines-app-in-ghe-com/)
 - [Auto-assign GitHub Copilot AI Credit budget to users](https://jessehouwing.net/auto-assign-github-copilot-ai-credit-budget-to-users/)
 - [Measuring the Value of AI](https://jessehouwing.net/measuring-the-value-of-ai/)
 - [The why for Usage Based Billing for GitHub Copilot](https://jessehouwing.net/usage-based-billing-for-github-copilot/)
 - [Github Copilot now available with Data Residency in the EU](https://jessehouwing.net/github-copilot-now-with-data-residency-in-europe/)
-- [GitHub Copilot will start training on your interactions](https://jessehouwing.net/github-copilot-will-start-training-on-your-interactions/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
