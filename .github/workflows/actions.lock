@@ -4,18 +4,18 @@
 version: 'v0.0.2'
 workflows:
     '.github/workflows/actions-dependency-submission.yml':
-        - 'actions/checkout@v6.0.3'
+        - 'actions/checkout@v7.0.0'
         - 'actions/dependency-review-action@v5.0.0'
         - 'jessehouwing/actions-dependency-submission@v1.0.15'
         - 'step-security/harden-runner@v2.19.4'
     '.github/workflows/blog-post-workflow.yml':
-        - 'actions/checkout@v6.0.3'
+        - 'actions/checkout@v7.0.0'
         - 'gautamkrishnar/blog-post-workflow@1.9.6'
         - 'step-security/harden-runner@v2.19.4'
 dependencies:
-    'actions/checkout@v6.0.3':
-        ref: 'v6.0.3'
-        commit: 'sha1-df4cb1c069e1874edd31b4311f1884172cec0e10'
+    'actions/checkout@v7.0.0':
+        ref: 'v7.0.0'
+        commit: 'sha1-9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0'
         owner_id: 44036562
         repo_id: 197814629
     'actions/dependency-review-action@v5.0.0':
