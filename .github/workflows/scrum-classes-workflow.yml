@@ -35,6 +35,7 @@ jobs:
         with:
           egress-policy: block
           allowed-endpoints: >
+            github.com:443
             scrumbug.ghost.io:443
             www.scrum.org:443
       - name: Checkout
