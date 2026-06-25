@@ -37,7 +37,8 @@ jobs:
           allowed-endpoints: >
             scrumbug.ghost.io:443
             www.scrum.org:443
-
+      - name: Checkout
+        uses: actions/checkout@v7.0.0
       - name: Update classes on Ghost Blog
         uses: ./.github/actions/update-scrum-classes-on-ghost
         with:
