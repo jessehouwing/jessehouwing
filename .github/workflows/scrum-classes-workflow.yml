@@ -20,7 +20,7 @@ jobs:
             www.scrum.org:443
 
       - name: Checkout
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
       - name: Update classes on GitHub profile
         uses: ./.github/actions/update-scrum-classes
         with:
@@ -39,7 +39,7 @@ jobs:
             scrumbug.ghost.io:443
             www.scrum.org:443
       - name: Checkout
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
       - name: Update classes on Ghost Blog
         uses: ./.github/actions/update-scrum-classes-on-ghost
         with:
