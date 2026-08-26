@@ -6,12 +6,12 @@ workflows:
     '.github/workflows/actions-dependency-submission.yml':
         - 'actions/checkout@v7.0.1'
         - 'actions/dependency-review-action@v5.0.0'
-        - 'jessehouwing/actions-dependency-submission@v1.0.15'
-        - 'step-security/harden-runner@v2.19.4'
+        - 'jessehouwing/actions-dependency-submission@v1.0.17'
+        - 'step-security/harden-runner@v2.21.0'
     '.github/workflows/blog-post-workflow.yml':
         - 'actions/checkout@v7.0.1'
         - 'gautamkrishnar/blog-post-workflow@1.9.6'
-        - 'step-security/harden-runner@v2.19.4'
+        - 'step-security/harden-runner@v2.21.0'
 dependencies:
     'actions/checkout@v7.0.1':
         ref: 'v7.0.1'
@@ -28,13 +28,13 @@ dependencies:
         commit: 'sha1-2786e54a01b71aec80a5118c2bd6b5044e842597'
         owner_id: 8397274
         repo_id: 280830267
-    'jessehouwing/actions-dependency-submission@v1.0.15':
-        ref: 'v1.0.15'
-        commit: 'sha1-d4ed9fd03b1c91e31a62d9a4095440128ec1316b'
+    'jessehouwing/actions-dependency-submission@v1.0.17':
+        ref: 'v1.0.17'
+        commit: 'sha1-aa358ec7aee0a7f2dbaef9702915b28e90879842'
         owner_id: 4173387
         repo_id: 1109249632
-    'step-security/harden-runner@v2.19.4':
-        ref: 'v2.19.4'
-        commit: 'sha1-9af89fc71515a100421586dfdb3dc9c984fbf411'
+    'step-security/harden-runner@v2.21.0':
+        ref: 'v2.21.0'
+        commit: 'sha1-05e31511f85b41b11d1cf0ef85d0992719546e2c'
         owner_id: 88700172
         repo_id: 422287306
