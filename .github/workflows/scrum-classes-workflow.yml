@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7.0.1
       - name: Update classes on GitHub profile
-        uses: ./.github/actions/update-scrum-classes
+        uses: $/.github/actions/update-scrum-classes
         with:
           trainer_id: 76
           user_agent: 'JesseHouwingScript'
@@ -41,7 +41,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7.0.1
       - name: Update classes on Ghost Blog
-        uses: ./.github/actions/update-scrum-classes-on-ghost
+        uses: $/.github/actions/update-scrum-classes-on-ghost
         with:
           trainer_id: 76
           user_agent: 'JesseHouwingScript'
