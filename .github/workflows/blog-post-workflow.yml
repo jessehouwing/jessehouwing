@@ -19,6 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7.0.1
       - name: Load my personal blogs
-        uses: gautamkrishnar/blog-post-workflow@1.9.6
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://jessehouwing.net/rss/"
