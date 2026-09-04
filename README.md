@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A trust checklist for GitHub Actions](https://jessehouwing.net/a-trust-checklist-for-github-actions/)
+- [Can one agent start another? Queueing sub-tasks in GitHub Agentic Workflows](https://jessehouwing.net/can-one-agent-start-another-queueing-sub-tasks-in-github-agentic-workflows/)
+- [Ground your GitHub Copilot agent in a local clone instead of letting it guess](https://jessehouwing.net/ground-your-github-copilot-agent-in-a-local-clone-instead-of-letting-it-guess/)
 - [Configure Azure Pipelines app in ghe.com](https://jessehouwing.net/configure-azure-pipelines-app-in-ghe-com/)
 - [Auto-assign GitHub Copilot AI Credit budget to users](https://jessehouwing.net/auto-assign-github-copilot-ai-credit-budget-to-users/)
-- [Measuring the Value of AI](https://jessehouwing.net/measuring-the-value-of-ai/)
-- [The why for Usage Based Billing for GitHub Copilot](https://jessehouwing.net/usage-based-billing-for-github-copilot/)
-- [Github Copilot now available with Data Residency in the EU](https://jessehouwing.net/github-copilot-now-with-data-residency-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
