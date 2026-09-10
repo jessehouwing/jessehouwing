@@ -7,14 +7,14 @@ workflows:
         - 'actions/checkout@v7.0.1'
         - 'actions/dependency-review-action@v5.0.0'
         - 'jessehouwing/actions-dependency-submission@v1.0.17'
-        - 'step-security/harden-runner@v2.21.0'
+        - 'step-security/harden-runner@v2.21.1'
     '.github/workflows/blog-post-workflow.yml':
         - 'actions/checkout@v7.0.1'
         - 'gautamkrishnar/blog-post-workflow@1.9.7'
-        - 'step-security/harden-runner@v2.21.0'
+        - 'step-security/harden-runner@v2.21.1'
     '.github/workflows/scrum-classes-workflow.yml':
         - 'actions/checkout@v7.0.1'
-        - 'step-security/harden-runner@v2.21.0'
+        - 'step-security/harden-runner@v2.21.1'
 dependencies:
     'actions/checkout@v7.0.1':
         ref: 'v7.0.1'
@@ -36,8 +36,8 @@ dependencies:
         commit: 'sha1-aa358ec7aee0a7f2dbaef9702915b28e90879842'
         owner_id: 4173387
         repo_id: 1109249632
-    'step-security/harden-runner@v2.21.0':
-        ref: 'v2.21.0'
-        commit: 'sha1-05e31511f85b41b11d1cf0ef85d0992719546e2c'
+    'step-security/harden-runner@v2.21.1':
+        ref: 'v2.21.1'
+        commit: 'sha1-e14015d583714f6e62063499dc959a02595150a1'
         owner_id: 88700172
         repo_id: 422287306
