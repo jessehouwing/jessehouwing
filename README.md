@@ -72,7 +72,7 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 * [Actions SemVer Checker Action](https://github.com/jessehouwing/actions-semver-checker) | [🛍️](https://github.com/marketplace/actions/actions-semver-checker)
 * [Actions Dependency Submission](https://github.com/jessehouwing/actions-dependency-submission) | [🛍️](https://github.com/marketplace/actions/github-actions-dependency-submission)
 * [Azure Pipelines Dependency Submission](https://github.com/jessehouwing/azure-pipelines-dependency-submission) | [🛍️](https://github.com/marketplace/actions/azure-pipelines-dependency-submission)
-
+* [Visual Studio Marketplace Action](https://github.com/jessehouwing/vs-marketplace) | [🛍️](https://github.com/marketplace/actions/vs-marketplace)
 <hr />
 
 🚀 Azure Pipelines Extensions
