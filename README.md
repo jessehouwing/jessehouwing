@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to enable GitHub Actions&#39; immutable subject claims for OIDC and Azure](https://jessehouwing.net/how-to-enable-immutable-subject-claims-for-oidc-and-azure/)
 - [Keep the creepy crawlies out of you workflows: securing GitHub Actions in 2026](https://jessehouwing.net/secure-github-actions-keep-the-creepy-crawlies-out-of-you-workflows/)
 - [Fixing complex bugs with AI - A deepdive into the PowerShellScriptAnalyzer](https://jessehouwing.net/fixing-complex-bugs-with-ai-deepdive-into-powershellscriptanalyzer/)
 - [A trust checklist for GitHub Actions](https://jessehouwing.net/a-trust-checklist-for-github-actions/)
 - [Can one agent start another? Queueing sub-tasks in GitHub Agentic Workflows](https://jessehouwing.net/can-one-agent-start-another-queueing-sub-tasks-in-github-agentic-workflows/)
-- [Ground your GitHub Copilot agent in a local clone instead of letting it guess](https://jessehouwing.net/ground-your-github-copilot-agent-in-a-local-clone-instead-of-letting-it-guess/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
