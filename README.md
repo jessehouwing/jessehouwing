@@ -34,6 +34,11 @@ If you're interested in a class that isn't currenly scheduled for public deliver
 <!-- SCRUM-CLASS-LIST:START -->
  - 🗓️ [Professional Scrum with Kanban - 16-17 Nov 2026](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2026-11-16-100167)
  - 🗓️ [Professional Scrum Product Owner - 3-4 Dec 2026](https://scrum.org/courses/professional-scrum-product-owner-hilversum-netherlands-2026-12-03-100289)
+ - 🗓️ [Professional Scrum with Kanban - 28-29 Jan 2027](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2027-01-28-111367)
+ - 🗓️ [Professional Scrum Master - 24-25 Mar 2027](https://scrum.org/courses/professional-scrum-master-hilversum-netherlands-2027-03-24-111391)
+ - 🗓️ [Professional Scrum with Kanban - 24-25 Jun 2027](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2027-06-24-111368)
+ - 🗓️ [Professional Scrum with Kanban - 6-7 Sep 2027](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2027-09-06-111369)
+ - 🗓️ [Professional Scrum with Kanban - 28-29 Oct 2027](https://scrum.org/courses/professional-scrum-kanban-hilversum-netherlands-2027-10-28-111370)
 <!-- SCRUM-CLASS-LIST:END -->
 
 <img height="60" width="60" src="./img/github-mona-jesse.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"><img height="60" width="60" src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png">
