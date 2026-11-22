@@ -10,4 +10,5 @@ Run the mocked tests without contacting Ghost:
 
 ```powershell
 pwsh -NoProfile -File .github\actions\update-scrum-classes-on-ghost\tests\update-scrum-classes.Tests.ps1
+pwsh -NoProfile -File .github\actions\update-scrum-classes-on-ghost\tests\update-scrum-classes-invocation.Tests.ps1
 ```
