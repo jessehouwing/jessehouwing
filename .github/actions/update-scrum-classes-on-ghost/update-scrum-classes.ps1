@@ -177,7 +177,7 @@ function Update-TrainingContent {
             $schedule = Get-TrainingSchedule -trainerId $scheduleTrainerId -format $scheduleFormat
         }
         return $match.Groups['start'].Value + $schedule + $match.Groups['end'].Value
-    }.GetNewClosure()
+    }
     return [regex]::Replace($content, $pattern, $evaluator)
 }
 
