@@ -16,11 +16,11 @@
 
 📒 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot broke after switching to a public npm feed](https://jessehouwing.net/dependabot-broke-after-switching-to-a-public-npm-feed/)
 - [Protect the repository hosting your GitHub Action &lpar;2026&rpar;](https://jessehouwing.net/protect-the-repository-hosting-your-github-action-2026/)
 - [Protect the repository behind your GitHub CLI extension](https://jessehouwing.net/protect-the-repository-behind-your-github-cli-extension/)
 - [Cleaning up unaffiliated users in GitHub Enterprise Cloud with the GraphQL API](https://jessehouwing.net/cleaning-up-unaffiliated-users-in-github-enterprise-cloud-with-the-graphql-api/)
 - [How to enable GitHub Actions&#39; immutable subject claims for OIDC and Azure](https://jessehouwing.net/how-to-enable-immutable-subject-claims-for-oidc-and-azure/)
-- [Keep the creepy crawlies out of you workflows: securing GitHub Actions in 2026](https://jessehouwing.net/secure-github-actions-keep-the-creepy-crawlies-out-of-you-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
